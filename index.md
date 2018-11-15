@@ -23,7 +23,7 @@ Dates for your diary:
 
 # Past Events
 
-We are happy to provide links to papers that have previously been accepted to the Genetic Improvement Workshop series in our [Papers](./papers.html) page.
+We provide links to papers that have previously been accepted to the Genetic Improvement Workshop series in our [Papers](./papers.html) page.
 
 * [The 1st International Workshop on Genetic Improvement at GECCO 2015, Madrid Spain](http://www.sigevo.org/gecco-2015/workshops.html#gi)
 * The 2nd International Workshop on Genetic Improvement at GECCO 2016, Denver, Colorado
