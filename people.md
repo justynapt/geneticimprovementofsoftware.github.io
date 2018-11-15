@@ -4,7 +4,7 @@ title: "People"
 perma: /people/
 ---
 
-# The 6th Workshop on Genetic Improvement Program Committee 
+# The 6th International Workshop on Genetic Improvement Program Committee 
 
 ## Justyna Petke
 
