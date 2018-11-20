@@ -14,7 +14,7 @@ For more information, links to tools and resources, please check the [FAQ & Reso
 
 ![](./icse2019.jpg)
 
-We are pleased to announce the 6th Workshop on Genetic Improvement at the International Conference on Software Engineering (ICSE) 2019. We shall soon be accepting papers. Please check this web-page regularly for information regarding submitting your ground breaking genetic improvement research.
+We are pleased to announce the 6th Workshop on Genetic Improvement at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)) 2019, Montreal, Canada. We shall soon be accepting papers. Please check this web-page regularly for information regarding submitting your ground breaking genetic improvement research.
 
 Dates for your diary:
 
