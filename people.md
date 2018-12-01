@@ -57,7 +57,7 @@ perma: /people/
 
 ## Aniko Ekart
 
-![](./profile_images/no_picture.png)
+![](./profile_images/aniko.jpg)
 
 [Aniko Ekart](https://www2.aston.ac.uk/eas/staff/a-z/dr-aniko-ekart) is the Associate Dean of Postgraduate Programmes at Aston University.
 
@@ -141,7 +141,7 @@ perma: /people/
 
 ## Ling Zhu
 
-![](./profile_images/no_picture.png)
+![](./profile_images/ling.jpg)
 
 [Ling Zhu](https://linkedin.com/in/ling-zhu-a8098b15) is a Research Engineer at the Ford Motor Company.
 
