@@ -46,6 +46,7 @@ Dates for your diary:
 * Notification date: **1st March 2019**
 * Camera-ready deadline: **15th March 2019**
 * ICSE Conference: **25th -- 31st May 2019**
+* Workshop date: **28th May 2019**
 
 # Past Events
 
