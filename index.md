@@ -10,7 +10,7 @@ For more information, links to tools and resources, please check the [FAQ & Reso
 
 # Upcoming Events
 
-## The 6th International Workshop on Genetic Improvement @ICSE 2019
+## The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)
 
 ![](./icse2019.jpg)
 
