@@ -4,8 +4,6 @@ title: "Call For Papers"
 perma: /cfp/
 ---
 
-# Call For Papers
-
 We are pleased to announce the 6th Workshop on Genetic Improvement at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)) 2019, Montreal, Canada.
 
 We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement.
