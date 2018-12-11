@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Past Events"
-perma: /past_events/
+title: "Previous Events"
+perma: /previous_events/
 ---
 
 # Past Events
