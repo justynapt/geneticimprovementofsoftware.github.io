@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CFP"
+title: "Call For Papers"
 perma: /cfp/
 ---
 
