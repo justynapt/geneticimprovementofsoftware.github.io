@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Organising Committee"
+title: "Organisers"
 perma: /organising_committee/
 ---
 
