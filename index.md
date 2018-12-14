@@ -36,7 +36,7 @@ We invite submissions of two types of paper:
 * Research papers (an eight page limit)
 * Position papers (a two page limit)
 
-We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
+We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion. **We are able to provide financial support for up to 5 students who have their paper accepted at the workshop.**
 
 All papers should be submitted as a PDF in the [ACM conference format](https://www.acm.org/publications/proceedings-template) via EasyChair ([https://easychair.org/conferences/?conf=gi2019](https://easychair.org/conferences/?conf=gi2019)). The Workshop on Genetic Improvement uses double-blind review --- Please anonymise authorship information prior to submission.
 
