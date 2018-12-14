@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Program Committee"
+title: "PC"
 perma: /program_committee/
 ---
 

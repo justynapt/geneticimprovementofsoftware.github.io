@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 # Genetic Improvement
@@ -50,4 +51,5 @@ Dates for your diary:
 
 ### Social Media:
 
-[Like, share, and join us on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
+[Link and share on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
+[Twitter page for GI 2018 @ ICSE](https://twitter.com/gi_icse_2018?lang=en)
