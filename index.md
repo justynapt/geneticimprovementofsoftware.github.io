@@ -51,5 +51,6 @@ Dates for your diary:
 
 ### Social Media:
 
-[Link and share on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
+[Like and share on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
+
 [Twitter page for GI 2018 @ ICSE](https://twitter.com/gi_icse_2018?lang=en)
