@@ -13,15 +13,13 @@ For more information, links to tools and resources, please check the [FAQ & Reso
 
 ### **Studentships**
 
-We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion. **We are able to provide financial support for up to 5 students who have their paper accepted at the workshop.**
+We encourage authors to submit early and in-progress work to the 6th International Workshop on Genetic Improvement  @[ICSE 2019](http://2019.icse-conferences.org). The workshop emphasises interaction and discussion. **We are able to provide financial support for up to 5 students who have their paper accepted at the workshop.**
 
 ### **Keynote speaker**
 
 We are pleased to announce that this year's Workshop on Genetic Improvement Keynote presentation will be given by [Nadia Alshahwan](http://geneticimprovementofsoftware.com/keynote.html) from Facebook, who is part of the Sapienz automated testing team.
 
-# Upcoming Events
-
-## The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)
+### The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)
 
 ![](./icse2019.jpg)
 
