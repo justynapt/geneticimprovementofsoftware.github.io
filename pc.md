@@ -8,17 +8,17 @@ perma: /program_committee/
 
 <hr><br>
 
-## Nadia Alshahwan
-
-![](./profile_images/nadia.jpeg)
-
-[Nadia Alshahwan](https://www.linkedin.com/in/nadiaalshahwan) is a Software Engineer at Facebook, London.
-
 ## Brad Alexander
 
 ![](./profile_images/brad.jpg)
 
 [Brad Alexander](http://www.cs.adelaide.edu.au/~brad/) is a Lecturer at the University of Adelaide.
+
+## Nadia Alshahwan
+
+![](./profile_images/nadia.jpeg)
+
+[Nadia Alshahwan](https://www.linkedin.com/in/nadiaalshahwan) is a Software Engineer at Facebook, London.
 
 ## Aniko Ekart
 
