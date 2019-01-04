@@ -24,7 +24,7 @@ perma: /organising_committee/
 
 ## William B. Langdon
 
-![](src=./profile_images/bill.jpg) 
+![](./profile_images/bill.jpg) 
 
 [William B. Langdon](http://www0.cs.ucl.ac.uk/staff/w.langdon) is a Professorial research associate at University College London. His research interests include genetic programming and genetic improvement.
 
