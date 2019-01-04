@@ -9,6 +9,16 @@ Genetic Improvement of Software regards the use of search-based techniques to im
 
 For more information, links to tools and resources, please check the [FAQ & Resources page](./faq.html).
 
+# News
+
+### **Studentships**
+
+We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion. **We are able to provide financial support for up to 5 students who have their paper accepted at the workshop.**
+
+### **Keynote speaker**
+
+We are pleased to announce that this year's Workshop on Genetic Improvement Keynote presentation will be given by [Nadia Alshahwan](http://geneticimprovementofsoftware.com/keynote.html) from Facebook, who is part of the Sapienz automated testing team.
+
 # Upcoming Events
 
 ## The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)
@@ -21,15 +31,6 @@ Call For Papers can be found [here](http://geneticimprovementofsoftware.com/cfp.
 
 * Submission deadline: **1st February 2019**
 * Workshop date: **Tuesday, 28th May 2019**
-
-### **Studentships**
-
-We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion. **We are able to provide financial support for up to 5 students who have their paper accepted at the workshop.**
-
-### **Keynote speaker**
-
-We are pleased to announce that this year's Workshop on Genetic Improvement Keynote presentation will be given by [Nadia Alshahwan](http://geneticimprovementofsoftware.com/keynote.html) from Facebook.
-
 
 ### **Social Media**
 
