@@ -8,6 +8,8 @@ We are pleased to announce the 6th Workshop on Genetic Improvement at the Intern
 
 We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement.
 
+We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion. **We are able to provide financial support for up to 5 students who have their paper accepted at the workshop.**
+
 The Workshop on Genetic Improvement provides an opportunity for researchers interested in automated program repair and software optimisation to disseminate their work, exchange ideas and discover new research directions.
 
 Topics of interest include both theory and practice of Genetic Improvement. Applications include, but are not limited to:
@@ -25,8 +27,6 @@ We invite submissions of two types of paper:
 
 * Research papers (an eight page limit)
 * Position papers (a two page limit)
-
-We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
 
 All papers should be submitted as a PDF in the [ACM conference format](https://www.acm.org/publications/proceedings-template) via EasyChair ([https://easychair.org/conferences/?conf=gi2019](https://easychair.org/conferences/?conf=gi2019)). The Workshop on Genetic Improvement uses double-blind review --- Please anonymise authorship information prior to submission.
 
