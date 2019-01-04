@@ -13,8 +13,6 @@ For more information, links to tools and resources, please check the [FAQ & Reso
 
 ## The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)
 
-**As in previous years, students whose papers get accepted to the workshop will be eligible to apply for one of five studentships to cover travel expenses.**
-
 ![](./icse2019.jpg)
 
 We are pleased to announce the 6th Workshop on Genetic Improvement at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)) 2019, Montreal, Canada.
