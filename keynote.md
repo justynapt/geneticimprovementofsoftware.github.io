@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Keynote"
+perma: /keynote/
+---
+
 ### **Keynote speaker**
 
 This year's Workshop on Genetic Improvement Keynote presentation will be given by Nadia Alshahwan.
