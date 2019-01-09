@@ -12,5 +12,5 @@ We provide links to papers that have previously been accepted to the Genetic Imp
 * [The 4th International Workshop on Genetic Improvement at ICSE 2018, Gottenburg Sweden](https://www.icse2018.org/track/icse-2018-Workshops)
 * [The 5th International Workshop on Genetic Improvement at GECCO 2018, Kyoto, Japan](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=Workshops#id_Genetic%20Improvement%20(GI%202018))
 
-![](./gis.001.jpeg)
-![](./gis.002.jpeg)
+![](./misc_images/gis.001.jpeg)
+![](./misc_images/gis.002.jpeg)

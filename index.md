@@ -21,7 +21,7 @@ We are pleased to announce that this year's Workshop on Genetic Improvement Keyn
 
 ### **The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)**
 
-![](./icse2019.jpg)
+![](./misc_images/icse2019.jpg)
 
 We are pleased to announce the 6th Workshop on Genetic Improvement at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)) 2019, Montreal, Canada.
 
