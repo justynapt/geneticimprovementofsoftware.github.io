@@ -43,6 +43,4 @@ perma: /organising_committee/
 
 ## Bobby R. Bruce
 
-![](./profile_images/bobby.png)
-
 [Bobby R. Bruce](https://web.cs.ucla.edu/~b.bruce) is a Postdoctoral Scholar at the University of California, Los Angeles. His research interests include genetic improvement, and search-based software engineering. He maintains the [geneticimprovementofsoftware.com](http://www.geneticimprovementofsoftware.com) web-page.
