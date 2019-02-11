@@ -27,7 +27,9 @@ We are pleased to announce the 6th Workshop on Genetic Improvement at the Intern
 
 Call For Papers can be found [here](http://geneticimprovementofsoftware.com/cfp.html).
 
-* Submission deadline: **1st February 2019**
+* ~~Submission deadline: **1st February 2019**~~
+* Notifcation to authors: **1st March 2019**
+* Camera-ready copies due: **15th March 2019**
 * Workshop date: **Tuesday, 28th May 2019**
 
 ### **Social Media**
