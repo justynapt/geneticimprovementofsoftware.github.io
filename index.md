@@ -28,9 +28,15 @@ We are pleased to announce the 6th Workshop on Genetic Improvement at the Intern
 Call For Papers can be found [here](http://geneticimprovementofsoftware.com/cfp.html).
 
 * ~~Submission deadline: **1st February 2019**~~
-* Notifcation to authors: **1st March 2019**
+* Notification to authors: **1st March 2019**
 * Camera-ready copies due: **15th March 2019**
 * Workshop date: **Tuesday, 28th May 2019**
+
+
+#### **My paper has been accepted, now what?**
+
+* Please [register to attend the ICSE Conference](https://2019.icse-conferences.org/attending/registration).
+* Prepare and submit your camera ready submission by the **15th of March**. This should incorporate any changes highlighted as necessary by your paper's reviewers and abide by the [IEEE Conference Proceedings formatting guidlines](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
 
 ### **Social Media**
 
