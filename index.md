@@ -35,4 +35,4 @@ Call For Papers can be found [here](http://geneticimprovementofsoftware.com/cfp.
 ### **Social Media**
 
 [Like and share on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
-
+[Follow us on Twitter](https://twitter.com/GI2019ICSE)
