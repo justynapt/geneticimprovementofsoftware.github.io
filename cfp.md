@@ -28,7 +28,7 @@ We invite submissions of two types of paper:
 * Research papers (an eight page limit)
 * Position papers (a two page limit)
 
-All papers should be submitted as a PDF in the [ACM conference format](https://www.acm.org/publications/proceedings-template) via EasyChair ([https://easychair.org/conferences/?conf=gi2019](https://easychair.org/conferences/?conf=gi2019)). The Workshop on Genetic Improvement uses double-blind review --- Please anonymise authorship information prior to submission.
+All papers should be submitted as a PDF via EasyChair ([https://easychair.org/conferences/?conf=gi2019](https://easychair.org/conferences/?conf=gi2019)). The Workshop on Genetic Improvement uses double-blind review --- Please anonymise authorship information prior to submission.
 
 Dates for your diary:
 
