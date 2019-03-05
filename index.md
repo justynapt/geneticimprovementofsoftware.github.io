@@ -43,6 +43,6 @@ Call For Papers can be found [here](http://geneticimprovementofsoftware.com/cfp.
 [Like and share on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
 [Follow us on Twitter](https://twitter.com/GI2019ICSE)
 
-#Other Genetic Improvement events
+# Other Genetic Improvement events
 
 * Saemundur O. Haraldsson, John Woodward, Brad Alexander, and Markus Wagner shall be running a [GI Tutorial](http://cec2019.org/programs/tutorials.html#cec-16) at this year's [IEEE Congress on Evolutionary Computation](http://cec2019.org/index.html), in Wellington, New Zealand.
