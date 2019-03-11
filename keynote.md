@@ -4,9 +4,11 @@ title: "Keynote"
 perma: /keynote/
 ---
 
-### **Keynote speaker**
+### **Keynote Presentation: "Industrial experience of Genetic Improvement in Facebook",**
 
-This year's Workshop on Genetic Improvement Keynote presentation will be given by Nadia Alshahwan.
+This year's Workshop on Genetic Improvement Keynote presentation will be 
+given by Nadia Alshahwan. She will discuss the use of Genetic
+Improvement at Facebook.
 
 ![](./profile_images/nadia.jpeg)
 
