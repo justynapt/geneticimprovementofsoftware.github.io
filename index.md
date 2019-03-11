@@ -36,7 +36,7 @@ Call For Papers can be found [here](http://geneticimprovementofsoftware.com/cfp.
 
 #### **My paper has been accepted, now what?**
 
-* Please [register to attend the ICSE Conference](https://2019.icse-conferences.org/attending/registration).
+* Please [register to attend the ICSE Conference](https://2019.icse-conferences.org/attending/registration) --- **Ensure you register to attend the GI Workshop on Tuesday, 28th May 2019. Early registration deadline: Monday 1st April, 2019**.
 * Prepare and submit your camera ready submission by the **15th of March**. This should incorporate any changes highlighted as necessary by your paper's reviewers and abide by the [IEEE Conference Proceedings formatting guidlines](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
 
 ### **Social Media**
