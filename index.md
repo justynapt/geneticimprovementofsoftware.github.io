@@ -44,6 +44,16 @@ Call For Papers can be found [here](http://geneticimprovementofsoftware.com/cfp.
 [Like and share on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
 [Follow us on Twitter](https://twitter.com/GI2019ICSE)
 
+### **The 7th International Workshop on Genetic Improvement @[GECCO 2019](https://gecco-2019.sigevo.org/index.html/HomePage)**
+
+The 7th International Workshop on Genetic Improvement will take place within the Genetic and Evolutionary Computation Conference (GECCO) 2019 in Prague. More information about this event can be found [here](https://workshop07.gi-workshops.org/).
+
+#### Important dates:
+* Submission deadline: **3rd April 2019**                        
+* Notification to authors: **17th April 2019**                       
+* Camera-ready copies due: **24th April 2019**                          
+* Conference dates: **13th -- 17th July 2019**  
+
 # Other Genetic Improvement events
 
 * Saemundur O. Haraldsson, John Woodward, Brad Alexander, and Markus Wagner shall be running a [GI Tutorial](http://cec2019.org/programs/tutorials.html#cec-16) at this year's [IEEE Congress on Evolutionary Computation](http://cec2019.org/index.html), in Wellington, New Zealand.
