@@ -38,6 +38,8 @@ We are pleased to announce that this year's Workshop on Genetic Improvement Keyn
 [Like and share on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
 [Follow us on Twitter](https://twitter.com/GI2019ICSE)
 
+<hr><br> 
+
 ## **The 7th International Workshop on Genetic Improvement @[GECCO 2019](https://gecco-2019.sigevo.org/index.html/HomePage)**
 
 The 7th International Workshop on Genetic Improvement will take place within the Genetic and Evolutionary Computation Conference (GECCO) 2019 in Prague. More information about this event can be found [here](https://workshop07.gi-workshops.org/).
@@ -47,6 +49,8 @@ The 7th International Workshop on Genetic Improvement will take place within the
 * Notification to authors: **17th April 2019**                       
 * Camera-ready copies due: **24th April 2019**                          
 * Conference dates: **13th -- 17th July 2019**  
+
+<hr><br> 
 
 ## **Other Genetic Improvement events**
 
