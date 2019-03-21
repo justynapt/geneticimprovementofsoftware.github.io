@@ -17,8 +17,6 @@ For more information, links to tools and resources, please check the [FAQ & Reso
 
 We are pleased to announce the 6th Workshop on Genetic Improvement at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)) 2019, Montreal, Canada.
 
-Call For Papers can be found [here](http://geneticimprovementofsoftware.com/cfp.html).
-
 * ~~Submission deadline: **1st February 2019**~~
 * ~~Notification to authors: **1st March 2019**~~
 * Camera-ready copies due: **15th March 2019**
