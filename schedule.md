@@ -4,9 +4,7 @@ title: "GI '19 @ICSE Schedule"
 perma: /schedule/                                                        
 ---      
 
-#Genetic Improvement 2019 @ICSE
-
-**Start 09:00 on Tuesday, May 28th, 2019**
+**Starts 09:00 on Tuesday, May 28th, 2019**
 
 ## Introduction and Keynote
 
