@@ -18,9 +18,9 @@ perma: /schedule/
 
 11:00 -- 1130 **Leveraging Program Invariants to Promote Population Diversity in Search-Based Automatic Program Repair**, Zhen Yu Ding, Yiwei Lyu, Christopher Timperley and Claire Le Goues
 
-11:30 -- 12:00 **Better Code Search and Reuse for Better Program Repair**,Qi Xin and Steven Reiss
+11:30 -- 12:00 **Better Code Search and Reuse for Better Program Repair**, Qi Xin and Steven Reiss
 
-12:30 -- 12:20 **Evolutionary Computation for Improving Malware Analysis**,Kevin Leach, Ryan Dougherty, Chad Spensky, Stephanie Forrest and Westley Weimer
+12:30 -- 12:20 **Evolutionary Computation for Improving Malware Analysis**, Kevin Leach, Ryan Dougherty, Chad Spensky, Stephanie Forrest and Westley Weimer
 
 12:30 -- 14:00 **Lunch**
 
