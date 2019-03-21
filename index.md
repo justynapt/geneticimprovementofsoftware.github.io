@@ -19,7 +19,7 @@ We are pleased to announce the 6th Workshop on Genetic Improvement at the Intern
 
 * ~~Submission deadline: **1st February 2019**~~
 * ~~Notification to authors: **1st March 2019**~~
-* Camera-ready copies due: **15th March 2019**
+* ~~Camera-ready copies due: **15th March 2019**~~
 * Workshop date: **Tuesday, 28th May 2019**
 
 A list of papers accepted to the 6th Workshop on Genetic Improvement can be found on our [Papers](./papers.html) page.
