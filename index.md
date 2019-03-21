@@ -24,6 +24,8 @@ We are pleased to announce the 6th Workshop on Genetic Improvement at the Intern
 
 A list of papers accepted to the 6th Workshop on Genetic Improvement can be found on our [Papers](./papers.html) page.
 
+The workshop schedule can be found [here](./schedule.md).
+
 #### **My paper has been accepted, now what?**
 
 * Please [register to attend the ICSE Conference](https://2019.icse-conferences.org/attending/registration) --- **Ensure you register to attend the GI Workshop on Tuesday, 28th May 2019. Early registration deadline: Monday 1st April, 2019**.
