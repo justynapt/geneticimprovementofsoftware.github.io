@@ -33,6 +33,8 @@ The workshop schedule can be found [here](./schedule.md).
 * [Jhe-Yu Liou](https://be.linkedin.com/in/jhe-yu-liou-1122759b)
 * [Yiwei Lyu](https://www.linkedin.com/in/yiwei-lyu-209176151)
 
+Each will recieve funds to travel and attend the workshop in Montreal.
+
 #### **My paper has been accepted, now what?**
 
 * Please [register to attend the ICSE Conference](https://2019.icse-conferences.org/attending/registration) --- **Ensure you register to attend the GI Workshop on Tuesday, 28th May 2019. Early registration deadline: Monday 1st April, 2019**.
