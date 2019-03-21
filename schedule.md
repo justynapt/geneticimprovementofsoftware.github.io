@@ -1,6 +1,6 @@
 ---                                                                     
 layout: page                                                            
-title: "GI '19 @ICSE Schedule"                                                        
+title: "Schedule"                                                        
 perma: /schedule/                                                        
 ---      
 
