@@ -26,6 +26,13 @@ A list of papers accepted to the 6th Workshop on Genetic Improvement can be foun
 
 The workshop schedule can be found [here](./schedule.md).
 
+**We are happy to announce the winners of our GI 2019 student sponsorship:**
+
+* [Oliver Krauss](https://research.fh-ooe.at/en/staff/25755)
+* [Zhen Yu](https://www.linkedin.com/in/zhen-yu-ding-23a389155)
+* [Jhe-Yu Liou](https://be.linkedin.com/in/jhe-yu-liou-1122759b)
+* [Yiwei Lyu](https://www.linkedin.com/in/yiwei-lyu-209176151)
+
 #### **My paper has been accepted, now what?**
 
 * Please [register to attend the ICSE Conference](https://2019.icse-conferences.org/attending/registration) --- **Ensure you register to attend the GI Workshop on Tuesday, 28th May 2019. Early registration deadline: Monday 1st April, 2019**.
