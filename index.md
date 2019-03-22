@@ -29,7 +29,7 @@ The workshop schedule can be found [here](./schedule.md).
 **We are happy to announce the winners of our GI 2019 student sponsorship:**
 
 * [Oliver Krauss](https://research.fh-ooe.at/en/staff/25755)
-* [Zhen Yu](https://www.linkedin.com/in/zhen-yu-ding-23a389155)
+* [Zhen Yu Ding](https://www.linkedin.com/in/zhen-yu-ding-23a389155)
 * [Jhe-Yu Liou](https://be.linkedin.com/in/jhe-yu-liou-1122759b)
 * [Yiwei Lyu](https://www.linkedin.com/in/yiwei-lyu-209176151)
 
