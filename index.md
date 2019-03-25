@@ -3,15 +3,11 @@ layout: default
 title: "" 
 ---
 
-# Genetic Improvement
-
-Genetic Improvement of Software regards the use of search-based techniques to improve software, with respect to some user-defined objectives, such as execution time or functional correctness. Our goal with the Genetic Improvement Workshop series is to promote research in this area. 
-
-For more information, links to tools and resources, please check the [FAQ & Resources page](./faq.html).
-
 # Upcoming Events
 
 ## **The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)**
+
+We are pleased to announce that this year's Keynote presentation will be given by Facebook software engineer, [Nadia Alshahwan](http://geneticimprovementofsoftware.com/keynote.html). Her talk is titled "Industrial experience of Genetic Improvement in Facebook".
 
 ![](./misc_images/icse2019.jpg)
 
@@ -34,10 +30,6 @@ The workshop schedule can be found [here](./schedule.md).
 * [Yiwei Lyu](https://www.linkedin.com/in/yiwei-lyu-209176151)
 
 Each will recieve funds to travel and attend the workshop in Montreal.
-
-### **Keynote speaker**
-
-We are pleased to announce that this year's Workshop on Genetic Improvement Keynote presentation will be given by [Nadia Alshahwan](http://geneticimprovementofsoftware.com/keynote.html) from Facebook, who is part of the Sapienz automated testing team. Her talk is titled "Industrial experience of Genetic Improvement in Facebook".
 
 [Like and share on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
 [Follow us on Twitter](https://twitter.com/GI2019ICSE)
