@@ -7,7 +7,7 @@ title: ""
 
 ## **The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)**
 
-We are pleased to announce that this year's Keynote presentation will be given by Facebook software engineer, [Nadia Alshahwan](http://geneticimprovementofsoftware.com/keynote.html). Her talk is titled "Industrial experience of Genetic Improvement in Facebook".
+We are pleased to announce that this year's **Keynote presentation** will be given by Facebook software engineer [Nadia Alshahwan](http://geneticimprovementofsoftware.com/keynote.html). Her talk is titled "Industrial experience of Genetic Improvement in Facebook".
 
 ![](./misc_images/icse2019.jpg)
 
