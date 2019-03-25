@@ -35,11 +35,6 @@ The workshop schedule can be found [here](./schedule.md).
 
 Each will recieve funds to travel and attend the workshop in Montreal.
 
-#### **My paper has been accepted, now what?**
-
-* Please [register to attend the ICSE Conference](https://2019.icse-conferences.org/attending/registration) --- **Ensure you register to attend the GI Workshop on Tuesday, 28th May 2019. Early registration deadline: Monday 1st April, 2019**.
-* Prepare and submit your camera ready submission by the **15th of March**. This should incorporate any changes highlighted as necessary by your paper's reviewers and abide by the [IEEE Conference Proceedings formatting guidlines](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
-
 ### **Keynote speaker**
 
 We are pleased to announce that this year's Workshop on Genetic Improvement Keynote presentation will be given by [Nadia Alshahwan](http://geneticimprovementofsoftware.com/keynote.html) from Facebook, who is part of the Sapienz automated testing team. Her talk is titled "Industrial experience of Genetic Improvement in Facebook".
