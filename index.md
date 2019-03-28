@@ -27,6 +27,7 @@ The workshop schedule can be found [here](./schedule.md).
 Each will recieve funds to travel and attend the workshop in Montreal.
 
 [Like and share on Facebook!](https://www.facebook.com/groups/softengcom/permalink/10161087425460184/)
+
 [Follow us on Twitter](https://twitter.com/GI2019ICSE)
 
 ------
