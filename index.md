@@ -11,12 +11,7 @@ We are pleased to announce that this year's **Keynote presentation** will be giv
 
 ![](./misc_images/icse2019.jpg)
 
-We are pleased to announce the 6th Workshop on Genetic Improvement at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)) 2019, Montreal, Canada.
-
-* ~~Submission deadline: **1st February 2019**~~
-* ~~Notification to authors: **1st March 2019**~~
-* ~~Camera-ready copies due: **15th March 2019**~~
-* Workshop date: **Tuesday, 28th May 2019**
+We are pleased to announce the 6th Workshop on Genetic Improvement at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)) 2019, Montreal, Canada. The workshop shall be held on **Tuesday, 28th of May 2019**.
 
 A list of papers accepted to the 6th Workshop on Genetic Improvement can be found on our [Papers](./papers.html) page.
 
