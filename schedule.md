@@ -20,7 +20,7 @@ perma: /schedule/
 
 11:30 -- 12:00 **Better Code Search and Reuse for Better Program Repair**, Qi Xin and Steven Reiss
 
-12:30 -- 12:20 **Evolutionary Computation for Improving Malware Analysis**, Kevin Leach, Ryan Dougherty, Chad Spensky, Stephanie Forrest and Westley Weimer
+12:00 -- 12:20 **Evolutionary Computation for Improving Malware Analysis**, Kevin Leach, Ryan Dougherty, Chad Spensky, Stephanie Forrest and Westley Weimer
 
 12:30 -- 14:00 **Lunch**
 
