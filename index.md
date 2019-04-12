@@ -7,7 +7,7 @@ title: ""
 
 ## **The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)**
 
-<center><img src="./misc_images/keynote_presentation.png)"></center>
+![](./misc_images/keynote_presentation.png)
 
 ![](./misc_images/icse2019.jpg)
 
