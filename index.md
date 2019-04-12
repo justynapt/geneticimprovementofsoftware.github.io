@@ -10,8 +10,6 @@ title: ""
 {: style="text-align:center"}
 ![](./misc_images/keynote_presentation.png)
 
-![](./misc_images/icse2019.jpg)
-
 We are pleased to announce the 6th Workshop on Genetic Improvement at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)) 2019, Montreal, Canada. The workshop shall be held on **Tuesday, 28th of May 2019**.
 
 A list of papers accepted to the 6th Workshop on Genetic Improvement can be found on our [Papers](./papers.html) page.
