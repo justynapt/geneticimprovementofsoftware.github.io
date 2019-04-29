@@ -26,7 +26,7 @@ perma: /schedule/
 
 ## Papers Session 2
 
-14:00 -- 14:30 **Genetic Improvement of GPU Code, Jhe-Yu Liou**, Stephanie Forrest and Carole-Jean Wu 
+14:00 -- 14:30 **Genetic Improvement of GPU Code**, Jhe-Yu Liou, Stephanie Forrest and Carole-Jean Wu 
 
 14:30 -- 14:50 **Mining Patterns from Genetic Improvement Experiments**, Oliver Krauss
 
