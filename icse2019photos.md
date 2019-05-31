@@ -19,4 +19,4 @@ perma: /icse_2019_photos/
 ![](./workshop_photos/2019_icse/P4280101.JPG)  
 ![](./workshop_photos/2019_icse/P4280103.JPG)  
 ![](./workshop_photos/2019_icse/P4280109.JPG)  
-![](./workshop_photos/2019_icse/P4280012.JPG)   
+![](./workshop_photos/2019_icse/P4280112.JPG)   
