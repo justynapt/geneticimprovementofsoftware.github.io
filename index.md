@@ -18,8 +18,7 @@ Photographs of the 6th Workshop on Genetic Improvement can be found [here](./ics
 
 We wish to congratulate <a href="https://be.linkedin.com/in/jhe-yu-liou-1122759b">Jhe-Yu Liou</a>, <a href="https://forrest.biodesign.asu.edu">Stephanie Forrest</a>, and <a href="http://faculty.engineering.asu.edu/carolewu">Carole-Jean Wu</a> for winning this workshop's **Best Paper Award** with <strong><a href="./paper_pdfs/liou2019genetic.pdf">Genetic Improvement of GPU Code</a></strong>.
 
-This workshop's **Best Presentation Award** went to <a href="http://kjleach.eecs.umich.edu">Kevin Leach</a>, <a href="https://isearch.asu.edu/profile/1639008">Ryan Dougherty</a>, <a href="http://cspensky.info">Chad Spensky</a>, <a href="https://forrest.biodesign.asu.ed
-u">Stephanie Forrest</a>, and <a href="http://web.eecs.umich.edu/~weimerw">Westley Weimer</a> for their presentation of <strong><a href="paper_pdfs/leach2019evolutionary.pdf">Evolutionary Computation from Improving Malware Analysis</a></strong> (presentation slides are available <a href="slides/leach2019evolutionary_slides.pdf">here</a>).
+This workshop's **Best Presentation Award** went to <a href="http://kjleach.eecs.umich.edu">Kevin Leach</a>, <a href="https://isearch.asu.edu/profile/1639008">Ryan Dougherty</a>, <a href="http://cspensky.info">Chad Spensky</a>, <a href="https://forrest.biodesign.asu.edu">Stephanie Forrest</a>, and <a href="http://web.eecs.umich.edu/~weimerw">Westley Weimer</a> for their presentation of <strong><a href="paper_pdfs/leach2019evolutionary.pdf">Evolutionary Computation from Improving Malware Analysis</a></strong> (presentation slides are available <a href="slides/leach2019evolutionary_slides.pdf">here</a>).
 
 # Upcoming workshops
 
