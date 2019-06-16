@@ -37,3 +37,8 @@ The 7th International Workshop on Genetic Improvement will take place within the
 ## **Other Genetic Improvement events**
 
 * Saemundur O. Haraldsson, John Woodward, Brad Alexander, and Markus Wagner shall be running a [GI Tutorial](http://cec2019.org/programs/tutorials.html#cec-16) at this year's [IEEE Congress on Evolutionary Computation](http://cec2019.org/index.html), in Wellington, New Zealand.
+
+## Genetic Improvement News
+
+* Version 2 of the Genetic Improvement in No time (GIN) tool has been released. It is available at [https://github.com/gintool/gin](https://github.com/gintool/gin).
+* Version 2, alpha release, of the PYGGI Python General Framework for Genetic Improvement is now available at [https://github.com/coinse/pyggi/releases](https://github.com/coinse/pyggi/releases). This release now supports XML.
