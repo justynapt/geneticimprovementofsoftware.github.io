@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ICSE '19 Photos"
+title: "Photos"
 perma: /icse_2019_photos/
 ---
 

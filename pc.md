@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "PC"
+title: "GI@ICSE'19 PC"
 perma: /program_committee/
 ---
-
-# The 6th International Workshop on Genetic Improvement Program Committee
 
 <hr><br>
 
