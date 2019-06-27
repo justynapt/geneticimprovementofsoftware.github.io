@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GI@ICSE'19 Organisers"
+title: "Organisers"
 perma: /organising_committee/
 ---
 
