@@ -3,6 +3,8 @@ layout: default
 title: "" 
 ---
 
+**Important website update:** In October we shall be retiring our [http://www.geneticimprovementofsoftware.com]() domain. From this point forward we shall be using the [https://geneticimprovementofsoftware.github.io]() URL exclusively.
+
 ## **General GI News**
 
 * Version 2 of the Genetic Improvement in No time (Gin) tool has been released. It is available at [https://github.com/gintool/gin](https://github.com/gintool/gin). It provides the ability to handle multi-class projects, gradle and maven build tools, built-in profiler and sampling utilities, test case generation, and a load of new edit operators.
