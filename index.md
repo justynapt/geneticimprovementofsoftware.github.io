@@ -14,7 +14,7 @@ title: ""
 
 ## **The 7th International Workshop on Genetic Improvement @[GECCO 2019](https://gecco-2019.sigevo.org/index.html/HomePage)**
 
-The 7th International Workshop on Genetic Improvement will take place within the Genetic and Evolutionary Computation Conference (GECCO) 2019 in Prague. More information about this event can be found [here](https://workshop07.gi-workshops.org/).
+The 7th International Workshop on Genetic Improvement took place at the Genetic and Evolutionary Computation Conference (GECCO) 2019 in Prague. More information about this event can be found [here](https://workshop07.gi-workshops.org/).
 
 
 ## **The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)**
