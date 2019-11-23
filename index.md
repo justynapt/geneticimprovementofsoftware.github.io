@@ -14,6 +14,13 @@ title: ""
 
 ------
 
+## **The 8th International Workshop on Genetic Improvement @[ICSE 2020](https://conf.researchr.org/home/icse-2020)**
+
+{: style="text-align:center"}
+![](./misc_images/icse2020.jpg)
+
+The 8th Workshop on Genetic Improvement was held at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2020)), 2020, Seul, South Korea, in **May 2020**. Details and Call For Papers can be found [here](./gi2020icse.md).
+
 ## **The 7th International Workshop on Genetic Improvement @[GECCO 2019](https://gecco-2019.sigevo.org/index.html/HomePage)**
 
 The 7th International Workshop on Genetic Improvement took place at the Genetic and Evolutionary Computation Conference (GECCO) 2019 in Prague. More information about this event can be found [here](https://workshop07.gi-workshops.org/).
