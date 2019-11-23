@@ -24,4 +24,4 @@ The 7th International Workshop on Genetic Improvement took place at the Genetic 
 {: style="text-align:center"}
 ![](./misc_images/icse2019.jpg)
 
-The 6th Workshop on Genetic Improvement was held at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)), 2019, Montreal, Canada, on **Tuesday, 28th of May 2019**. Detials can be found [here](./gi2019icse.md).
+The 6th Workshop on Genetic Improvement was held at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)), 2019, Montreal, Canada, on **Tuesday, 28th of May 2019**. Details can be found [here](./gi2019icse.md).
