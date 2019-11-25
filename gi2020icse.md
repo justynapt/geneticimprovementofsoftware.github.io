@@ -46,7 +46,9 @@ We invite submissions of two paper types:
 • Position papers (limit 2 pages)
 
 We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
-All papers should be submitted via EasyChair, double-blind as pdfs (in the ACM conference format as per the ICSE 2020 information). Webpage will be open soon.
+All papers should be submitted via EasyChair:
+https://easychair.org/conferences/?conf=giicse2020
+double-blind as pdfs (in the ACM conference format as per the ICSE 2020 information). 
 All accepted papers must be presented at GI 2020 and will appear in the ICSE workshops volume. The official publication date of the workshop proceedings is the date the proceedings are made available online.
 
 ## Organisers
