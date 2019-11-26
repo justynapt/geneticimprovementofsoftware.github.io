@@ -53,7 +53,12 @@ All accepted papers must be presented at GI 2020 and will appear in the ICSE wor
 
 ## Organisers
 
+<img align="right"  alt="drawing" width="120px" src="./profile_images/shinyoo.png">
 [Shin Yoo](https://coinse.kaist.ac.kr/members/shin.yoo/) is a tenure-track Associate Professor at Korea Advanced Institute of Science and Technology in Daejeon, Republic of Korea. His main re- search interests are fault localisation, search based software testing, and genetic improvement. 
+
+<br>
+<br>
+<br>
 
 <img align="right"  alt="drawing" width="120px" src="./profile_images/justyna.jpg">
 [Justyna Petke](http://www0.cs.ucl.ac.uk/staff/j.petke) is a Principal Research Fellow and Proleptic Senior Lecturer (Associate Professor) in the Centre for Research on Evolution, Search and Testing (CREST), at University College London. She is interested in Constraint Satisfaction, Search-Based Software Engineering, and Genetic Improvement.
@@ -70,10 +75,14 @@ All accepted papers must be presented at GI 2020 and will appear in the ICSE wor
 <br>
 <br>
 
-[Bobby R. Bruce](https://web.cs.ucla.edu/~b.bruce) is a Postdoctoral Scholar at UC Davis where he primarily works on the Gem5 computer architecture simulator. Prior to UC Davis, Bobby carried out research into the automatic optimization of Java bytecode at UCLA. 
+<img align="right"  alt="drawing" width="120px" src="./profile_images/bobby.jpg">
+[Bobby R. Bruce](https://www.bobbybruce.net) is a Postdoctoral Scholar at UC Davis where he primarily works on the Gem5 computer architecture simulator. Prior to UC Davis, Bobby carried out research into the automatic optimization of Java bytecode at UCLA. 
 
 <br>
-Web Chair: [Gabin Ann](https://coinse.kaist.ac.kr/members/gabin/) is an MSc candidate at School of Computing Korea Advanced Institute of Science and Technology, Republic of Korea.
+<br>
+<br>
+
+Web Chair: [Gabin An](https://coinse.kaist.ac.kr/members/gabin/) is an MSc candidate at School of Computing Korea Advanced Institute of Science and Technology, Republic of Korea.
 
 ## PC
 
