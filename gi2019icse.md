@@ -12,6 +12,12 @@ perma: /gi2019icse/
 [Sponsors](#sponsors) 
 [Photos](#photos)
 
+## **The 6th International Workshop on Genetic Improvement @[ICSE 2019](http://2019.icse-conferences.org)**
+
+{: style="text-align:center"}
+![](./misc_images/icse2019.jpg)
+
+The 6th Workshop on Genetic Improvement was held at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2019)), 2019, Montreal, Canada, on **Tuesday, 28th of May 2019**. 
 
 ## Awards
 

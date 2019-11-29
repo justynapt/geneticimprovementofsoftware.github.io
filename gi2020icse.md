@@ -61,7 +61,7 @@ All accepted papers must be presented at GI 2020 and will appear in the ICSE wor
 <br>
 
 <img align="right"  alt="drawing" width="120px" src="./profile_images/justyna.jpg">
-[Justyna Petke](http://www0.cs.ucl.ac.uk/staff/j.petke) is a Principal Research Fellow and Proleptic Senior Lecturer (Associate Professor) in the Centre for Research on Evolution, Search and Testing (CREST), at University College London. She is interested in Constraint Satisfaction, Search-Based Software Engineering, and Genetic Improvement.
+[Justyna Petke](http://www0.cs.ucl.ac.uk/staff/j.petke) is a Principal Research Fellow and Proleptic Senior Lecturer (Associate Professor) in the Centre for Research on Evolution, Search and Testing (CREST), at University College London. She is interested in Genetic Improvement, Search-Based Software Engineering, and Constraint Satisfaction. She holds an EPSRC Fellowship on Genetic Improvement.
 
 <br>
 <br>
