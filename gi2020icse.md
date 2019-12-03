@@ -18,6 +18,7 @@ The 8th Workshop on Genetic Improvement was held at the International Conference
 
 ## Call For Papers
 
+PDF version can be found [here](./cfp.pdf).
 
 We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement.
 GI is the premier workshop in the field and provides an opportunity for researchers interested in automated program repair and software optimisation to disseminate their work, exchange ideas and discover new research directions.
