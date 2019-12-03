@@ -47,7 +47,7 @@ We invite submissions of two paper types:
 
 We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
 All papers should be submitted via EasyChair:
-https://easychair.org/conferences/?conf=giicse2020
+<https://easychair.org/conferences/?conf=giicse2020>
 double-blind as pdfs (in the ACM conference format as per the ICSE 2020 information). 
 All accepted papers must be presented at GI 2020 and will appear in the ICSE workshops volume. The official publication date of the workshop proceedings is the date the proceedings are made available online.
 
@@ -76,7 +76,7 @@ All accepted papers must be presented at GI 2020 and will appear in the ICSE wor
 <br>
 
 <img align="right"  alt="drawing" width="120px" src="./profile_images/bobby.jpg">
-[Bobby R. Bruce](https://www.bobbybruce.net) is a Postdoctoral Scholar at UC Davis where he primarily works on the Gem5 computer architecture simulator. Prior to UC Davis, Bobby carried out research into the automatic optimization of Java bytecode at UCLA. 
+[Bobby R. Bruce](https://www.bobbybruce.net) is a Postdoctoral Scholar at UC Davis where he primarily works on the gem5 computer architecture simulator. Prior to UC Davis, Bobby carried out research into the automatic optimization of Java bytecode at UCLA. 
 
 <br>
 <br>
