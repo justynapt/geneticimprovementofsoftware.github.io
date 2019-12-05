@@ -55,7 +55,7 @@ All accepted papers must be presented at GI 2020 and will appear in the ICSE wor
 ## Organisers
 
 <img align="right"  alt="drawing" width="120px" src="./profile_images/shinyoo.png">
-[Shin Yoo](https://coinse.kaist.ac.kr/members/shin.yoo/) is a tenure-track Associate Professor at Korea Advanced Institute of Science and Technology in Daejeon, Republic of Korea. His main re- search interests are fault localisation, search based software testing, and genetic improvement. 
+[Shin Yoo](https://coinse.kaist.ac.kr/members/shin.yoo/) is a tenure-track Associate Professor at Korea Advanced Institute of Science and Technology in Daejeon, Republic of Korea. His main research interests are fault localisation, search based software testing, and genetic improvement. 
 
 <br>
 <br>
