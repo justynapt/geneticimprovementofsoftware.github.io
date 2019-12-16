@@ -18,8 +18,6 @@ The 8th Workshop on Genetic Improvement was held at the International Conference
 
 ## Call For Papers
 
-PDF version can be found [here](./cfp.pdf).
-
 We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement.
 GI is the premier workshop in the field and provides an opportunity for researchers interested in automated program repair and software optimisation to disseminate their work, exchange ideas and discover new research directions.
 Topics of interest include both the theory and practice of Genetic Improvement. Applications include, but are not limited to, using GI to:
@@ -47,8 +45,8 @@ We invite submissions of two paper types:
 • Position papers (limit 2 pages)
 
 We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
-All papers should be submitted via EasyChair:
-<https://easychair.org/conferences/?conf=giicse2020>
+All papers should be submitted via HotCRP:
+<https://icse20-gi8.hotcrp.com/>
 double-blind as pdfs (in the ACM conference format as per the ICSE 2020 information). 
 All accepted papers must be presented at GI 2020 and will appear in the ICSE workshops volume. The official publication date of the workshop proceedings is the date the proceedings are made available online.
 
