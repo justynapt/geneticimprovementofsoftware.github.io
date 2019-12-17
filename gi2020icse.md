@@ -18,31 +18,31 @@ The 8th Workshop on Genetic Improvement was held at the International Conference
 
 ## Call For Papers
 
-We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement.
+We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement. 
 GI is the premier workshop in the field and provides an opportunity for researchers interested in automated program repair and software optimisation to disseminate their work, exchange ideas and discover new research directions.
 Topics of interest include both the theory and practice of Genetic Improvement. Applications include, but are not limited to, using GI to:
 
-• improve efficiency
+•	improve efficiency
 
-• decrease memory consumption
+•	decrease memory consumption
 
-• decrease energy consumption
+•	decrease energy consumption
 
-• transplant new functionality
+•	transplant new functionality
 
-• specialise software
+•	specialise software
 
-• translate between programming languages
+•	translate between programming languages
 
-• generate multiple versions of software
+•	generate multiple versions of software
 
-• repair bugs
+•	repair bugs
 
 We invite submissions of two paper types:
 
-• Research papers (limit 8 pages)
+•	Research papers (limit 8 pages)
 
-• Position papers (limit 2 pages)
+•	Position papers (limit 2 pages)
 
 We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
 All papers should be submitted via HotCRP:
