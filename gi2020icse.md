@@ -4,7 +4,7 @@ title: "GI @ ICSE 2020"
 perma: /gi2020icse/
 ---
 
-[CFP](#call-for-papers)
+[CFP](#call-for-submissions)
 [Organisers](#organisers)
 [PC](#pc)
 [Sponsors](#sponsors) 
@@ -16,7 +16,16 @@ perma: /gi2020icse/
 
 The 8th Workshop on Genetic Improvement was held at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2020)), 2020, Seul, South Korea, in **May 2020**. 
 
-## Call For Papers
+## Important Dates
+| Event                   | Date             |
+|------------------------ |------------------|
+| Submission Deadline     | 22 January 2020  |
+| Notification            | 25 February 2020 |
+| Camera-ready            | 16 March 2020    |
+| Workshop                | 23 May 2020      |
+
+
+## Call For Submissions
 
 We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement. 
 GI is the premier workshop in the field and provides an opportunity for researchers interested in automated program repair and software optimisation to disseminate their work, exchange ideas and discover new research directions.
@@ -38,6 +47,7 @@ Topics of interest include both the theory and practice of Genetic Improvement. 
 
 •	repair bugs
 
+## Research & Position Papers
 We invite submissions of two paper types:
 
 •	Research papers (limit 8 pages)
@@ -50,14 +60,9 @@ All papers should be submitted via HotCRP:
 double-blind as pdfs (in the ACM conference format as per the ICSE 2020 information). 
 All accepted papers must be presented at GI 2020 and will appear in the ICSE workshops volume. The official publication date of the workshop proceedings is the date the proceedings are made available online.
 
-## Important Dates
-| Event          | Date             |
-|--------------- |------------------|
-| Submission     | 22 January 2020  |
-| Notification   | 25 February 2020 |
-| Camera-ready   | 16 March 2020    |
-| Workshop       | 23 May 2020      |
+## Studentships
 
+There will be up to five travel scholarships available for students whose work is accepted at the workshop.
 
 ## Organisers
 
