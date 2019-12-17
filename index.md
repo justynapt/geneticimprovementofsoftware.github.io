@@ -5,6 +5,7 @@ title: ""
 
 ## **News**
 
+* **Studentships available to support travel to the GI workshop at ICSE 2020.**  Details can be found [here](./gi2020icse.html).
 * There will be a special session on Genetic Improvement at WCCI 2020. Details can be found [here](./wcci2020ss.html).
 * The 8th International Workshop on Genetic Improvement wil take place at ICSE 2020. Details can be found [here](./gi2020icse.html).
 * The 62nd [CREST Open Workshop](http://crest.cs.ucl.ac.uk/cow/62/) on Program Repair and Genetic Improvement will take place in January 2020.
