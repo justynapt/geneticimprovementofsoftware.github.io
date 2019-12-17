@@ -50,6 +50,15 @@ All papers should be submitted via HotCRP:
 double-blind as pdfs (in the ACM conference format as per the ICSE 2020 information). 
 All accepted papers must be presented at GI 2020 and will appear in the ICSE workshops volume. The official publication date of the workshop proceedings is the date the proceedings are made available online.
 
+## Important Dates
+| Event          | Date             |
+|--------------- |------------------|
+| Submission     | 22 January 2020  |
+| Notification   | 25 February 2020 |
+| Camera-ready   | 16 March 2020    |
+| Workshop       | 23 May 2020      |
+
+
 ## Organisers
 
 <img align="right"  alt="drawing" width="120px" src="./profile_images/shinyoo.png">
