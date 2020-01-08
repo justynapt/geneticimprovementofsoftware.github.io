@@ -56,7 +56,7 @@ We invite submissions of two paper types:
 We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
 All papers should be submitted via HotCRP:
 <https://icse20-gi8.hotcrp.com/>
-double-blind as pdfs (in the [ACM conference format](https://www.acm.org/publications/proceedings-template) ([download](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip)) as per the [ICSE 2020 information](https://conf.researchr.org/track/icse-2020/icse-2020-papers#Call-for-Papers)).
+double-blind as pdfs (in the [ACM conference format](https://www.acm.org/publications/proceedings-template) as per the [ICSE 2020 information](https://conf.researchr.org/track/icse-2020/icse-2020-papers#Call-for-Papers)) [[download LaTeX template](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip)].
 > LaTeX users must use the provided `acmart.cls` and `ACM-Reference-Format.bst` *without modification*, enable the conference format in the preamble of the document (i.e., `\documentclass[sigconf,review]{acmart}`), and use the ACM reference format for the bibliography (i.e., `\bibliographystyle{ACM-Reference-Format}`). The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments.
 
 All accepted papers must be presented at GI 2020 and will appear in the ICSE workshops volume. The official publication date of the workshop proceedings is the date the proceedings are made available online.
