@@ -140,13 +140,13 @@ Web Chair: [Gabin An](https://coinse.kaist.ac.kr/members/gabin/) is an MSc candi
 
 - [Márcio Barros](http://www.uniriotec.br/~marcio.barros/)
 
-<img width="120px" src="./profile_images/eric.jpeg">
+<img width="120px" src="./profile_images/eric.jpg">
 
 - [Eric Schulte](https://www.cs.unm.edu/~eschulte/)
 
 <img width="120px" src="./profile_images/lea.jpg">
 
-[Lea Kristin Gerling](https://sse.uni-hildesheim.de/mitglieder/lea-kristin-gerling)
+- [Lea Kristin Gerling](https://sse.uni-hildesheim.de/mitglieder/lea-kristin-gerling)
 
 
 ## Sponsors
