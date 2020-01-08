@@ -98,53 +98,53 @@ Web Chair: [Gabin An](https://coinse.kaist.ac.kr/members/gabin/) is an MSc candi
 
 ## PC
 
-![](./profile_images/thanhvu.jpeg)
+<img width="120px" src="./profile_images/thanhvu.jpeg">
 
 - [ThanhVu Nguyen](https://cse.unl.edu/~tnguyen/)
 
 - [Aymeric Blot](http://www0.cs.ucl.ac.uk/staff/a.blot/)
 
-![](./profile_images/tracy.jpg)
+<img width="120px" src="./profile_images/tracy.jpg">
 
 - [Tracy Hall](https://www.lancaster.ac.uk/scc/about-us/people/tracy-hall)
 
-![](./profile_images/jifeng.jpg)
+<img width="120px" src="./profile_images/jifeng.jpg">
 
 - [Jifeng Xuan](http://jifeng-xuan.com/)
 
-![](./profile_images/yyuan.jpg)
+<img width="120px" src="./profile_images/yyuan.jpg">
 
 - [Yuan Yuan](https://yyxhdy.github.io/)
 
-![](./profile_images/colin.jpg)
+<img width="120px" src="./profile_images/colin.jpg">
 
 - [Colin Johnson](http://www.cs.kent.ac.uk/people/staff/cgj)
 
-![](./profile_images/yu.jpg)
+<img width="120px" src="./profile_images/yu.jpg">
 
 - [Yu Huang](http://www-personal.umich.edu/~yhhy/)
 
-![](./profile_images/nadia.jpeg)
+<img width="120px" src="./profile_images/nadia.jpeg">
 
 [Nadia Alshahwan](https://www.linkedin.com/in/nadiaalshahwan)
 
-![](./profile_images/chris.jpg)
+<img width="120px" src="./profile_images/chris.jpg">
 
 - [Christopher Timperley](https://www.cs.cmu.edu/directory/ctimperl)
 
-![](./profile_images/leonardo.jpeg)
+<img width="120px" src="./profile_images/leonardo.jpeg">
 
 - [Leonardo Trujillo](https://sites.google.com/site/leonardotrujillogp/)
 
-![](./profile_images/marcio.jpeg)
+<img width="120px" src="./profile_images/marcio.jpeg">
 
 - [Márcio Barros](http://www.uniriotec.br/~marcio.barros/)
 
-![](./profile_images/eric.jpeg)
+<img width="120px" src="./profile_images/eric.jpeg">
 
 - [Eric Schulte](https://www.cs.unm.edu/~eschulte/)
 
-![](./profile_images/lea.jpg)
+<img width="120px" src="./profile_images/lea.jpg">
 
 [Lea Kristin Gerling](https://sse.uni-hildesheim.de/mitglieder/lea-kristin-gerling)
 
