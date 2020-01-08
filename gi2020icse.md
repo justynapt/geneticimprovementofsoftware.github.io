@@ -126,7 +126,7 @@ Web Chair: [Gabin An](https://coinse.kaist.ac.kr/members/gabin/) is an MSc candi
 
 <img width="120px" src="./profile_images/nadia.jpeg">
 
-[Nadia Alshahwan](https://www.linkedin.com/in/nadiaalshahwan)
+- [Nadia Alshahwan](https://www.linkedin.com/in/nadiaalshahwan)
 
 <img width="120px" src="./profile_images/chris.jpg">
 
