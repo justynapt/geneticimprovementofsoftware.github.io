@@ -155,7 +155,8 @@ Web Chair: [Gabin An](https://coinse.kaist.ac.kr/members/gabin/) is an MSc candi
 - [Marija Selakovic](http://marija.skyresource.com)
 
 <img width="120px" src="./profile_images/bach.jpeg">
-- [Bach Le]
+
+- [Bach Le](https://cis.unimelb.edu.au/people/bach-le)
 
 ## Sponsors
 
