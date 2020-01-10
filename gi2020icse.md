@@ -150,6 +150,12 @@ Web Chair: [Gabin An](https://coinse.kaist.ac.kr/members/gabin/) is an MSc candi
 
 - [Lea Kristin Gerling](https://sse.uni-hildesheim.de/mitglieder/lea-kristin-gerling)
 
+<img width="120px" src="./profile_images/marija.jpg">
+
+- [Marija Selakovic](http://marija.skyresource.com)
+
+<img width="120px" src="./profile_images/bach.jpeg">
+- [Bach Le]
 
 ## Sponsors
 
