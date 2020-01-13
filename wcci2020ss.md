@@ -40,7 +40,7 @@ In the context of WCCI, we also welcome ANN and Fuzzy based approaches to suppor
 
 ## Important Dates
 
- - Paper Submission Deadline: 15 Jan 2020
+ - Paper Submission Deadline: <strike>15 Jan 2020</strike> 30 Jan 2020
  - Notification of Acceptance: 15 Mar 2020
  - Final Paper Submission Deadline: 15 Apr 2020
 
