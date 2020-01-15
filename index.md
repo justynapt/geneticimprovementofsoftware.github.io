@@ -5,6 +5,7 @@ title: ""
 
 ## **News**
 
+* We are happy to announce that **Andrew Sloss (ARM) and Mark Harman (Facebook, University College London)** will give **keynote talks at the GI workshop at ICSE 2020.**  Details can be found [here](./gi2020icse.html).
 * **Studentships available to support travel to the GI workshop at ICSE 2020.**  Details can be found [here](./gi2020icse.html).
 * There will be a special session on Genetic Improvement at WCCI 2020. Details can be found [here](./wcci2020ss.html).
 * The 8th International Workshop on Genetic Improvement wil take place at ICSE 2020. Details can be found [here](./gi2020icse.html).
