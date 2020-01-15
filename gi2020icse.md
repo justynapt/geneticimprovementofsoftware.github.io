@@ -61,6 +61,10 @@ double-blind as pdfs (in the [ACM conference format](https://www.acm.org/publica
 
 All accepted papers must be presented at GI 2020 and will appear in the ICSE workshops volume. The official publication date of the workshop proceedings is the date the proceedings are made available online.
 
+## Keynotes
+
+We are happy to announce that we will have two keynote speakers from the industry: by Andrew Sloss (ARM) and by Mark Harman (Facebook, University College London).
+
 ## Studentships
 
 There will be up to five travel scholarships available for students whose work is accepted at the workshop.
