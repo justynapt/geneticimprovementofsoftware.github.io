@@ -18,7 +18,7 @@ The 8th Workshop on Genetic Improvement was held at the International Conference
 
 ## Important Dates
 
-- **Submission Deadline**: 22 January 2020 (Wed)
+- **Submission Deadline**: <strike>22 January 2020 (Wed)</strike> 31 January 2020
 - **Notification**: 25 February 2020 (Tue)
 - **Camera-ready**: 16 March 2020 (Mon)
 - **Workshop**: 24 May 2020 (Sun)
