@@ -175,6 +175,6 @@ Special thanks to [Bill Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/) for 
 
 We are grateful to our sponsors for their support of the 8th International Workshop (GI@ICSE 2020).
 
-![](./misc_images/a_field_guide_to_gp.png)
+[![](./misc_images/a_field_guide_to_gp.png)](http://www.gp-field-guide.org.uk/)
 
 ![](./misc_images/epsrc.png)
