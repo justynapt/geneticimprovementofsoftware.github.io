@@ -7,14 +7,13 @@ perma: /wcci2020ss/
 
 [CFP](#call-for-papers)
 [Organisers](#organisers)
-[PC](#pc)
 
 ## **Special Session on Genetic Improvement @[WCCI 2020](https://wcci2020.org)**
 
 {: style="text-align:center"}
 ![](./misc_images/wcci2020glasgow.jpeg)
 
-The Special Session on Genetic Improvement will be held at the IEEE Congress on Evolutionary Computation (CEC), part of the IEEE World Congress on Computational Intelligence [WCCI](https://wcci2020.org), 2020, Glasgow, Scotland, in **July 2020**. 
+The Special Session on Genetic Improvement will be held at the IEEE Congress on Evolutionary Computation (CEC), part of the IEEE World Congress on Computational Intelligence [WCCI](https://wcci2020.org), 2020, on **19-24 July 2020**. The conference will be fully virtual. Details can be found [here](https://wcci2020.org).
 
 ## Overview
 In the past ten years there has been a dramatic increase in work on Search-Based Software Engineering (SBSE), an approach to software engineering in which search-based optimisation algorithms are used to address problems. The approach is attractive because it offers a suite of adaptive automated and semi-automated solutions in situations typified by large complex problem spaces with multiple competing and conflicting objectives. 
@@ -41,8 +40,8 @@ In the context of WCCI, we also welcome ANN and Fuzzy based approaches to suppor
 ## Important Dates
 
  - Paper Submission Deadline: <strike>15 Jan 2020</strike> 30 Jan 2020
- - Notification of Acceptance: 15 Mar 2020
- - Final Paper Submission Deadline: 15 Apr 2020
+ - Notification of Acceptance: <strike>15 Mar 2020</strike> 20 Mar 2020
+ - Final Paper Submission Deadline: <strike>15 Apr 2020</strike> 15 May 2020
 
 ## Paper Submission
 
@@ -66,8 +65,3 @@ For more submission information please visit: (https://wcci2020.org). All accept
 
 <img align="right"  alt="drawing" width="120px" src="./profile_images/john.jpg">
 [John R. Woodward](http://www.eecs.qmul.ac.uk/~jwoodward/ ) is a Senior Lecturer at QMUL and head of the Operational Research Group http://or.qmul.ac.uk/. He has organized workshops at GECCO including Metaheuristic Design Patterns and ECADA, Evolutionary Computation for the Automated Design of Algorithms which has run for 8 years. He has also given tutorials on the same topic at PPSN, CEC, and GECCO. He currently holds a grant examining how Genetic Improvement techniques can be used to adapt scheduling software for airport runways. He is currently ranked 36th out of over 10,000 researchers on The Genetic Programming Bibliography.
-
-## PC
-
-TBD
-
