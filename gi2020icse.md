@@ -14,8 +14,6 @@ perma: /gi2020icse/
 {: style="text-align:center"}
 ![](./misc_images/icse2020.jpg)
 
-The 8th Workshop on Genetic Improvement was held at the International Conference on Software Engineering ([ICSE](https://conf.researchr.org/home/icse-2020)), 2020, Seoul, South Korea, in **October 2020**. 
-
 ## Important Dates
 
 - **Submission Deadline**: <strike>22 January 2020 (Wed)</strike> 31 January 2020
