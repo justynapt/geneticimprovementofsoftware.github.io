@@ -102,7 +102,7 @@ There will be up to five travel scholarships available for students whose work i
 <br>
 <br>
 
-Web Chair: [Gabin An](https://coinse.kaist.ac.kr/members/gabin/) is an MSc candidate at School of Computing Korea Advanced Institute of Science and Technology, Republic of Korea.
+Web Chair: [Gabin An](https://coinse.kaist.ac.kr/members/gabin/) is an PhD candidate at School of Computing Korea Advanced Institute of Science and Technology, Republic of Korea.
 
 <img align="right"  alt="drawing" width="120px" src="./profile_images/bill.jpg">
 Special thanks to [Bill Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/) for helping with advertising the workshop.
