@@ -61,7 +61,11 @@ All accepted papers must be presented at GI 2020 and will appear in the ICSE wor
 
 ## Keynote
 
-We are happy to announce that Mark Harman (Facebook, University College London) will give the keynote talk.
+<img align="right"  alt="drawing" width="120px" src="./profile_images/mark.jpg">
+
+We are happy to announce that [Mark Harman](http://www0.cs.ucl.ac.uk/staff/M.Harman/) (Facebook, University College London) will give the keynote speech in GI 2020 ([link to paper](https://research.fb.com/wp-content/uploads/2020/04/WES-Agent-based-User-Interaction-Simulation-on-Real-Infrastructure.pdf)).
+
+Mark Harman is an engineering manager at Facebook London, and also a part time professor of Software Engineering in the Department of Computer Science at University College London, where he directed the CREST centre for ten years (2006-2017) and was Head of Software Systems Engineering (2012-2017). His scientific work includes source code analysis, software testing, app store analysis and Search Based Software Engineering (SBSE), a field he co-founded and which has grown rapidly to include over 1,600 authors spread over more than 40 countries. In February 2017, he and the other two co-founders of the start-up Majicke moved to Facebook, London, where they are working on software test automation.
 
 ## Studentships
 
