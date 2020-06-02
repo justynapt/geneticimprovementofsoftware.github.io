@@ -5,6 +5,7 @@ description: "Special Session on Genetic Improvement"
 perma: /wcci2020ss/
 ---
 
+[Papers](#papers)
 [CFP](#call-for-papers)
 [Organisers](#organisers)
 
@@ -19,6 +20,28 @@ The Special Session on Genetic Improvement will be held at the IEEE Congress on 
 In the past ten years there has been a dramatic increase in work on Search-Based Software Engineering (SBSE), an approach to software engineering in which search-based optimisation algorithms are used to address problems. The approach is attractive because it offers a suite of adaptive automated and semi-automated solutions in situations typified by large complex problem spaces with multiple competing and conflicting objectives. 
 
 An increasingly popular area similar to SBSE, called  [Genetic Improvement of Software](./faq.html), arised in the last few years. With this special session, we are providing an opportunity to showcase recent breakthroughs in this field.
+
+
+## Papers
+
+<strong><a href="paper_pdfs/E-24061.pdf">Genetic Improvement of Genetic Programming</a></strong>
+by <a href="http://www0.cs.ucl.ac.uk/staff/W.Langdon/">William B Langdon</a>
+
+GISMOE BNF grammar based GI is applied to optimise run time of the tree interpreter in the fastest single computer floating point genetic programming system, GPavx. Up to two fold speed up is obtained. Performance varies with tree size. The GI version of Singleton’s C++ GPquick is demonstrated on random trees of up to 79 million opcodes on Intel AVX512 SIMD parallel compute servers.
+
+<strong><a href="paper_pdfs/E-24527.pdf">Empirical Analysis of 1-edit Degree Patches in Syntax-Based Automatic Program Repair</a></strong>
+by <a href="https://www.cs.york.ac.uk/people/pd">Piotr Dziurzanski</a>, Simos Gerasimou, Dimitris Kolovos and Nicholas Matragkas     
+
+In this paper, software patches modifying a single line (aka 1-edit degree patches) of buggy Java open-source projects have been generated automatically using computational search and experimentally evaluated. We carried out the presumably largest to date experiment related to 1-edit degree patches, consisting of almost 27,000 computational jobs upper bounded with 107,000 computational hours. Our experiments show the benefits and drawbacks of such kind of patches. In particular, the search space size has been shown to be reduced by several orders of magnitude. The volume of tests that can be filtered out without any negative impact while generating 1-edit degree patches has been increased by about 97%. Finally, the effectiveness of finding 1-edit plausible patches is compared with multi-line plausible patches found with state-of-the-art syntax-based Automatic Program Repair tools. It is shown that despite patching fewer bugs in total, 1-edit degree patches have potential to patch some extra bugs.
+
+
+<strong><a href="paper_pdfs/E-24667.pdf">Injecting Shortcuts for Faster Running Java Code</a></strong>
+by <a href="http://www.cs.stir.ac.uk/~sbr/">Alexander E.I. Brownlee</a>, Justyna Petke and Anna F. Rasburn
+
+Genetic Improvement of software applies search methods to existing software to improve the target program in some way. Impressive results have been achieved, including substantial speedups, using simple operations that replace, swap and delete lines or statements within the code. Often this is achieved by specialising code, removing parts that are unnecessary for particular use-cases. Previous work has shown that there is a great deal of potential in targeting more specialised operations that modify the code to achieve the same functionality in a different way.
+
+We propose six new edit types for Genetic Improvement of Java software, based on the insertion of break, continue and return statements. The idea is to add shortcuts that allow parts of the program to be skipped in order to speed it up. 10 000 randomly-generated instances of each edit were applied to three open-source applications taken from GitHub. The key findings are: (1) compilation rates for inserted statements without surrounding “if” statements are 1.3–18.3%; (2) edits where the inserted statement is embedded within an “if” have compilation rates of 3.2–55.8%; (3) of those that compiled, all 6 edits have a high rate of passing tests (Neutral Variant Rate), >60% in all but one case, and so have the potential to be performance improving edits. Finally, a preliminary experiment based on local search shows how these edits might be used in practice.
+
 
 ## Call For Papers
 
