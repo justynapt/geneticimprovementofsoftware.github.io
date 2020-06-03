@@ -19,7 +19,7 @@ perma: /gi2020icse/
 - **Submission Deadline**: <strike>22 January 2020 (Wed)</strike> 31 January 2020
 - **Notification**: 25 February 2020 (Tue)
 - **Camera-ready**: 16 March 2020 (Mon)
-- **Workshop**: TBD
+- **Workshop**: 3 July 2020 (Fri), 13:00-15:30 UTC ([time zone converter]( https://www.timeanddate.com/worldclock/converter.html?iso=20200707T000000&p1=1440))
 
 
 ## Call For Submissions [[pdf](https://github.com/geneticimprovementofsoftware/geneticimprovementofsoftware.github.io/raw/master/cfp.pdf)]
