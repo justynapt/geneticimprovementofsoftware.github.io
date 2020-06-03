@@ -67,6 +67,50 @@ We are happy to announce that [Mark Harman](http://www0.cs.ucl.ac.uk/staff/M.Har
 
 Mark Harman is an engineering manager at Facebook London, and also a part time professor of Software Engineering in the Department of Computer Science at University College London, where he directed the CREST centre for ten years (2006-2017) and was Head of Software Systems Engineering (2012-2017). His scientific work includes source code analysis, software testing, app store analysis and Search Based Software Engineering (SBSE), a field he co-founded and which has grown rapidly to include over 1,600 authors spread over more than 40 countries. In February 2017, he and the other two co-founders of the start-up Majicke moved to Facebook, London, where they are working on software test automation.
 
+## Papers
+
+**Human Factors in the Study of Automatic Software Repair** by Emily Winter, David Bowes Steve Counsell, Saemundur Haraldsson, Vesna Nowack, John Woodward
+
+Automatic software repair represents a significant development in software engineering, promising considerable potential change to the working procedures and practices of software engineers, developers, and testers. Technical advances within this domain have been the focus of many recent publications. However, despite the simultaneous rising prominence of studies that consider the role of ‘human factors’ within software engineering, there has not been an equivalent growth of studies of human factors within the domain of automatic software repair. This short position paper presents the case for increased research in this area and suggests three key focuses and approaches for a future research agenda. These are: considerations that go beyond the current focus on the usability
+of automatic software repair tools; longitudinal studies; and the use of a wide range of appropriate social research methods, not just surveys. All three of these position industry-based software engineers not just as providers of feedback on automatic software repair tools but as valuable participants in the shaping of these technologies, allowing for the development of tools that meet 
+developer and industry needs, as well as allaying any concerns.
+
+<hr>
+
+**Synthetic Benchmarks for Genetic Improvement** by Aymeric Blot, Justyna Petke
+
+Genetic improvement (GI) uses automated search to find improved versions of existing software.
+If over the years the potential of many GI approaches have been demonstrated, the intrinsic cost of evaluating real-world software makes comparing these approaches in large-scale meta-analyses very  expensive.
+We propose and describe a method to construct synthetic GI benchmarks, to circumvent this bottleneck and enable much faster quality assessment of GI approaches.
+
+<hr>
+
+**Stack-Based Genetic Improvement** by Aymeric Blot, Justyna Petke
+
+Genetic improvement (GI) uses automated search to find improved versions of existing software.
+If originally GI directly evolved populations of software, most GI work nowadays use a solution representation based on a list of mutations.
+This representation however has some limitations, notably in how genetic material can be recombined.
+We introduce a novel stack-based representation and discuss its possible benefits.
+
+<hr>
+
+**Checkers: Multi-modal Darwinian API Optimisation** by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan
+
+Advent of microservices has increased the popularity of the API-first design principles. Developers have been focusing on concretising the API to a system before building the system. An API-first approach assumes that the API will be correctly used. Inevitably, most developers, even experienced ones, end-up writing sub-optimal software because of using APIs incorrectly. In this paper, we discuss an automated approach for exploring API equivalence and a framework to synthesise semantically equivalent programs. Unlike existing approaches to API transplantation, we propose an amorphous or formless approach to software translation in which a single API could potentially be replaced by a synthesised sequence of APIs which ensures type progress. Our search is guided by the non-functional goals for the software, a type-theoretic notion of progress and an automatic multi-modal embedding of the API from its documentation and code analysis.
+
+<hr>
+
+**Genetic Improvement of Data Gives Division free Division** by W. B. Langdon, Oliver Krauss
+
+Modern society is dependent on software. Yet software production is labour intensive. While most software automation research concentrates on programs' code, we have started investigating if genetic improvement can assist developers by automating aspects of the maintenance of parameters embedded in software. We extend recent GI work on optimising compile time constants to give new functionality and fully describe the transformation of a C library square root function into the reciprocal function. Multiplying by the reciprocal allows division without requiring the hardware to support division. The evolution and indeed the evolved function are both surprisingly fast.
+
+<hr>
+
+**Towards Knowledge Guided Genetic Improvement** by Oliver Krauss
+
+We outline a combination of Grammar Guided Genetic Programming with Tree Genetic Programming. Instead of utilizing a grammar directly, an operator graph based on that grammar is created, that is responsible for producing abstract syntax trees. Each operator contains knowledge about the grammar symbol it represents and returns only trees valid according to user-defined restrictions such as depth, complexity and approximated run-time performance. Initial Results show that the approach reduces invalid individuals in an evolutionary run, while supporting the extension towards further non-functional features.
+
+
 ## Studentships
 
 There will be up to five travel scholarships available for students whose work is accepted at the workshop.
