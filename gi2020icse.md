@@ -5,6 +5,8 @@ perma: /gi2020icse/
 ---
 
 [CFP](#call-for-submissions)
+[Keynote](#keynote)
+[Papers](#papers)
 [Organisers](#organisers)
 [PC](#pc)
 [Sponsors](#sponsors) 
