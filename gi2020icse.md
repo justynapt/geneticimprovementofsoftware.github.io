@@ -100,12 +100,6 @@ Advent of microservices has increased the popularity of the API-first design pri
 
 <hr>
 
-**Genetic Improvement of Data Gives Division free Division** by W. B. Langdon, Oliver Krauss
-
-Modern society is dependent on software. Yet software production is labour intensive. While most software automation research concentrates on programs' code, we have started investigating if genetic improvement can assist developers by automating aspects of the maintenance of parameters embedded in software. We extend recent GI work on optimising compile time constants to give new functionality and fully describe the transformation of a C library square root function into the reciprocal function. Multiplying by the reciprocal allows division without requiring the hardware to support division. The evolution and indeed the evolved function are both surprisingly fast.
-
-<hr>
-
 **Towards Knowledge Guided Genetic Improvement** by Oliver Krauss
 
 We outline a combination of Grammar Guided Genetic Programming with Tree Genetic Programming. Instead of utilizing a grammar directly, an operator graph based on that grammar is created, that is responsible for producing abstract syntax trees. Each operator contains knowledge about the grammar symbol it represents and returns only trees valid according to user-defined restrictions such as depth, complexity and approximated run-time performance. Initial Results show that the approach reduces invalid individuals in an evolutionary run, while supporting the extension towards further non-functional features.
