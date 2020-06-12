@@ -4,12 +4,7 @@ title: "GI @ ICSE 2020"
 perma: /gi2020icse/
 ---
 
-[CFP](#call-for-submissions)
-[Keynote](#keynote)
-[Papers](#papers)
-[Organisers](#organisers)
-[PC](#pc)
-[Sponsors](#sponsors) 
+[Keynote](#keynote) [Papers](#papers) [Schedule](#schedule) [CFP](#CFP) [Organisers](#organisers) [PC](#pc) [Sponsors](#sponsors) 
 
 ## **The 8th International Workshop on Genetic Improvement @[ICSE 2020](https://conf.researchr.org/home/icse-2020)**
 
@@ -23,43 +18,6 @@ perma: /gi2020icse/
 - **Camera-ready**: 16 March 2020 (Mon)
 - **Workshop**: 3 July 2020 (Fri), 13:00-15:30 UTC ([time zone converter]( https://www.timeanddate.com/worldclock/converter.html?iso=20200707T000000&p1=1440))
 
-
-## Call For Submissions [[pdf](https://github.com/geneticimprovementofsoftware/geneticimprovementofsoftware.github.io/raw/master/cfp.pdf)]
-
-We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement. 
-GI is the premier workshop in the field and provides an opportunity for researchers interested in automated program repair and software optimisation to disseminate their work, exchange ideas and discover new research directions.
-Topics of interest include both the theory and practice of Genetic Improvement. Applications include, but are not limited to, using GI to:
-
-•	improve efficiency
-
-•	decrease memory consumption
-
-•	decrease energy consumption
-
-•	transplant new functionality
-
-•	specialise software
-
-•	translate between programming languages
-
-•	generate multiple versions of software
-
-•	repair bugs
-
-## Research & Position Papers
-We invite submissions of two paper types:
-
-•	Research papers (limit 8 pages)
-
-•	Position papers (limit 2 pages)
-
-We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
-All papers should be submitted via HotCRP:
-<https://icse20-gi8.hotcrp.com/>
-double-blind as pdfs (in the [ACM conference format](https://www.acm.org/publications/proceedings-template) as per the [ICSE 2020 information](https://conf.researchr.org/track/icse-2020/icse-2020-papers#Call-for-Papers)) [[download LaTeX template](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip)].
-> LaTeX users must use the provided `acmart.cls` and `ACM-Reference-Format.bst` *without modification*, enable the conference format in the preamble of the document (i.e., `\documentclass[sigconf,review]{acmart}`), and use the ACM reference format for the bibliography (i.e., `\bibliographystyle{ACM-Reference-Format}`). The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments.
-
-All accepted papers must be presented at GI 2020 and will appear in the ICSE workshops volume. The official publication date of the workshop proceedings is the date the proceedings are made available online.
 
 ## Keynote
 
@@ -105,6 +63,70 @@ Advent of microservices has increased the popularity of the API-first design pri
 **Towards Knowledge Guided Genetic Improvement** by Oliver Krauss
 
 We outline a combination of Grammar Guided Genetic Programming with Tree Genetic Programming. Instead of utilizing a grammar directly, an operator graph based on that grammar is created, that is responsible for producing abstract syntax trees. Each operator contains knowledge about the grammar symbol it represents and returns only trees valid according to user-defined restrictions such as depth, complexity and approximated run-time performance. Initial Results show that the approach reduces invalid individuals in an evolutionary run, while supporting the extension towards further non-functional features.
+
+## Schedule
+
+Keynote: 1pm-2:15pm UTC (includes Q&A)
+
+2:15-2:27 (includes Q&A)
+
+Checkers: Multi-modal Darwinian API Optimisation by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan
+
+2:27-2:39 (includes Q&A)
+
+Stack-Based Genetic Improvement by Aymeric Blot, Justyna Petke
+
+2:39-2:51 (includes Q&A)
+
+Human Factors in the Study of Automatic Software Repair by Emily Winter, David Bowes Steve Counsell, Saemundur Haraldsson, Vesna Nowack, John Woodward
+
+2:51- 3:03 (includes Q&A)
+
+Towards Knowledge Guided Genetic Improvement by Oliver Krauss
+
+3:03-3:15 (includes Q&A)
+
+Synthetic Benchmarks for Genetic Improvement by Aymeric Blot, Justyna Petke
+
+3:15-3:30
+Discussion Session
+
+## <a name="CFP"></a> Call For Submissions [[pdf](https://github.com/geneticimprovementofsoftware/geneticimprovementofsoftware.github.io/raw/master/cfp.pdf)]
+
+We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement. 
+GI is the premier workshop in the field and provides an opportunity for researchers interested in automated program repair and software optimisation to disseminate their work, exchange ideas and discover new research directions.
+Topics of interest include both the theory and practice of Genetic Improvement. Applications include, but are not limited to, using GI to:
+
+•	improve efficiency
+
+•	decrease memory consumption
+
+•	decrease energy consumption
+
+•	transplant new functionality
+
+•	specialise software
+
+•	translate between programming languages
+
+•	generate multiple versions of software
+
+•	repair bugs
+
+## Research & Position Papers
+We invite submissions of two paper types:
+
+•	Research papers (limit 8 pages)
+
+•	Position papers (limit 2 pages)
+
+We encourage authors to submit early and in-progress work. The workshop emphasises interaction and discussion.
+All papers should be submitted via HotCRP:
+<https://icse20-gi8.hotcrp.com/>
+double-blind as pdfs (in the [ACM conference format](https://www.acm.org/publications/proceedings-template) as per the [ICSE 2020 information](https://conf.researchr.org/track/icse-2020/icse-2020-papers#Call-for-Papers)) [[download LaTeX template](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip)].
+> LaTeX users must use the provided `acmart.cls` and `ACM-Reference-Format.bst` *without modification*, enable the conference format in the preamble of the document (i.e., `\documentclass[sigconf,review]{acmart}`), and use the ACM reference format for the bibliography (i.e., `\bibliographystyle{ACM-Reference-Format}`). The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments.
+
+All accepted papers must be presented at GI 2020 and will appear in the ICSE workshops volume. The official publication date of the workshop proceedings is the date the proceedings are made available online.
 
 
 ## Studentships
@@ -153,63 +175,13 @@ Special thanks to [Bill Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/) for 
 
 ## PC
 
-<img width="120px" src="./profile_images/thanhvu.jpeg">
+<img width="120px" src="./profile_images/thanhvu.jpeg"><br> [ThanhVu Nguyen](https://cse.unl.edu/~tnguyen/), University | <img width="120px" src="./profile_images/tracy.jpg"><br> [Tracy Hall](https://www.lancaster.ac.uk/scc/about-us/people/tracy-hall), University | <img width="120px" src="./profile_images/jifeng.jpg"><br> [Jifeng Xuan](http://jifeng-xuan.com/), University | <img width="120px" src="./profile_images/yyuan.jpg"><br> [Yuan Yuan](https://yyxhdy.github.io/), University
 
-- [ThanhVu Nguyen](https://cse.unl.edu/~tnguyen/)
+<img width="120px" src="./profile_images/colin.jpg"><br> [Colin Johnson](http://www.cs.kent.ac.uk/people/staff/cgj), University | <img width="120px" src="./profile_images/yu.jpg"><br> [Yu Huang](http://www-personal.umich.edu/~yhhy/), University | <img width="120px" src="./profile_images/nadia.jpeg"><br> [Nadia Alshahwan](https://www.linkedin.com/in/nadiaalshahwan), University | <img width="120px" src="./profile_images/chris.jpg"><br> [Christopher Timperley](https://www.cs.cmu.edu/directory/ctimperl), University
 
-- [Aymeric Blot](http://www0.cs.ucl.ac.uk/staff/a.blot/)
+<img width="120px" src="./profile_images/leonardo.jpeg"><br> [Leonardo Trujillo](https://sites.google.com/site/leonardotrujillogp/), University | <img width="120px" src="./profile_images/marcio.jpeg"><br> [Márcio Barros](http://www.uniriotec.br/~marcio.barros/), University | <img width="120px" src="./profile_images/eric.jpg"><br> [Eric Schulte](https://www.cs.unm.edu/~eschulte/), University | <img width="120px" src="./profile_images/lea.jpg"><br> [Lea Kristin Gerling](https://sse.uni-hildesheim.de/mitglieder/lea-kristin-gerling), University
 
-<img width="120px" src="./profile_images/tracy.jpg">
-
-- [Tracy Hall](https://www.lancaster.ac.uk/scc/about-us/people/tracy-hall)
-
-<img width="120px" src="./profile_images/jifeng.jpg">
-
-- [Jifeng Xuan](http://jifeng-xuan.com/)
-
-<img width="120px" src="./profile_images/yyuan.jpg">
-
-- [Yuan Yuan](https://yyxhdy.github.io/)
-
-<img width="120px" src="./profile_images/colin.jpg">
-
-- [Colin Johnson](http://www.cs.kent.ac.uk/people/staff/cgj)
-
-<img width="120px" src="./profile_images/yu.jpg">
-
-- [Yu Huang](http://www-personal.umich.edu/~yhhy/)
-
-<img width="120px" src="./profile_images/nadia.jpeg">
-
-- [Nadia Alshahwan](https://www.linkedin.com/in/nadiaalshahwan)
-
-<img width="120px" src="./profile_images/chris.jpg">
-
-- [Christopher Timperley](https://www.cs.cmu.edu/directory/ctimperl)
-
-<img width="120px" src="./profile_images/leonardo.jpeg">
-
-- [Leonardo Trujillo](https://sites.google.com/site/leonardotrujillogp/)
-
-<img width="120px" src="./profile_images/marcio.jpeg">
-
-- [Márcio Barros](http://www.uniriotec.br/~marcio.barros/)
-
-<img width="120px" src="./profile_images/eric.jpg">
-
-- [Eric Schulte](https://www.cs.unm.edu/~eschulte/)
-
-<img width="120px" src="./profile_images/lea.jpg">
-
-- [Lea Kristin Gerling](https://sse.uni-hildesheim.de/mitglieder/lea-kristin-gerling)
-
-<img width="120px" src="./profile_images/marija.jpg">
-
-- [Marija Selakovic](http://marija.skyresource.com)
-
-<img width="120px" src="./profile_images/bach.jpeg">
-
-- [Bach Le](https://cis.unimelb.edu.au/people/bach-le)
+<img width="120px" src="./profile_images/marija.jpg"><br> [Marija Selakovic](http://marija.skyresource.com), University | <img width="120px" src="./profile_images/bach.jpeg"><br> [Bach Le](https://cis.unimelb.edu.au/people/bach-le), University | [Aymeric Blot](http://www0.cs.ucl.ac.uk/staff/a.blot/), University
 
 ## Sponsors
 
@@ -217,6 +189,4 @@ Special thanks to [Bill Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/) for 
 
 We are grateful to our sponsors for their support of the 8th International Workshop (GI@ICSE 2020).
 
-[![](./misc_images/a_field_guide_to_gp.png)](http://www.gp-field-guide.org.uk/)
-
-![](./misc_images/epsrc.png)
+[![](./misc_images/a_field_guide_to_gp.png)](http://www.gp-field-guide.org.uk/) ![](./misc_images/epsrc.png)
