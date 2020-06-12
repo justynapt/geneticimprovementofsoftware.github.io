@@ -1,11 +1,12 @@
 ---
 layout: default
+description: " "
 title: "" 
 ---
 
 ## **News**
-* Due to ICSE going [virtual](https://conf.researchr.org/home/icse-2020), we will soon announce decisions with regards to what it means for the 8th GI workshop.
-* <strike>[The 8th International Workshop on Genetic Improvement](./gi2020icse.html) will take place at ICSE 2020, which will now be held in October. More details about this move are available on the [ICSE 2020](https://conf.researchr.org/home/icse-2020) website.</strike>
+* We are happy to annnounce that there will be a GI toturial at [ASE 2020](https://conf.researchr.org/home/ase-2020/).
+* Due to ICSE going [virtual](https://conf.researchr.org/home/icse-2020), the [8th GI workshop](./gi2020icse.html) is also going virtual and will be held on July 3rd.
 * We are happy to announce that **Mark Harman (Facebook, University College London)** will give a keynote talk at [the GI workshop at ICSE 2020](./gi2020icse.html).
 * The 9th International Workshop on Genetic Improvement will take place at [GECCO 2020](https://gecco-2020.sigevo.org/index.html/Workshops#id_The%20Ninth%20Genetic%20Improvement%20Workshop%20(2020)).
 * There will be a [special session on Genetic Improvement at WCCI 2020](./wcci2020ss.html).
