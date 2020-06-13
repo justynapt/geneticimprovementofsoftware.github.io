@@ -18,6 +18,10 @@ perma: /gi2020icse/
 - **Camera-ready**: 16 March 2020 (Mon)
 - **Workshop**: 3 July 2020 (Fri), 13:00-15:30 UTC ([time zone converter]( https://www.timeanddate.com/worldclock/converter.html?iso=20200707T000000&p1=1440))
 
+## Registration
+
+ISE 2020 registration is now open [here](https://conf.researchr.org/attending/icse-2020/registration). Registration deadline for GI is 24 June.
+
 
 ## Keynote
 
