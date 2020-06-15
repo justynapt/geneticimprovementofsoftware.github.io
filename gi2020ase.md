@@ -10,7 +10,6 @@ perma: /gi2020ase/
 
 ## **Tutorial on Genetic improvement: Taking real-world source code and improving it using genetic programming @[ASE 2020](https://conf.researchr.org/home/ase-2020)**
 
-{ style="text-align:center"}
 ![](https://conf.researchr.org/getImage/ase-2020/carousel/ewvewr.jpg)
 
 This Tutorial will be held at the  Special Session on Genetic Improvement will be held at the 35th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2020 [ASE](https://conf.researchr.org/home/ase-2020), 2020, on **21-25 September 2020**. The conference will be fully virtual. Details can be found [here](https://conf.researchr.org/home/ase-2020).
