@@ -33,7 +33,7 @@ Mark Harman is an engineering manager at Facebook London, and also a part time p
 
 ## Papers
 
-**Human Factors in the Study of Automatic Software Repair** by Emily Winter, David Bowes Steve Counsell, Saemundur Haraldsson, Vesna Nowack, John Woodward
+**Human Factors in the Study of Automatic Software Repair** by Emily Winter, David Bowes Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward
 
 Automatic software repair represents a significant development in software engineering, promising considerable potential change to the working procedures and practices of software engineers, developers, and testers. Technical advances within this domain have been the focus of many recent publications. However, despite the simultaneous rising prominence of studies that consider the role of ‘human factors’ within software engineering, there has not been an equivalent growth of studies of human factors within the domain of automatic software repair. This short position paper presents the case for increased research in this area and suggests three key focuses and approaches for a future research agenda. These are: considerations that go beyond the current focus on the usability
 of automatic software repair tools; longitudinal studies; and the use of a wide range of appropriate social research methods, not just surveys. All three of these position industry-based software engineers not just as providers of feedback on automatic software repair tools but as valuable participants in the shaping of these technologies, allowing for the development of tools that meet 
@@ -82,7 +82,7 @@ Stack-Based Genetic Improvement by Aymeric Blot, Justyna Petke
 
 2:39-2:51 (includes Q&A)
 
-Human Factors in the Study of Automatic Software Repair by Emily Winter, David Bowes Steve Counsell, Saemundur Haraldsson, Vesna Nowack, John Woodward
+Human Factors in the Study of Automatic Software Repair by Emily Winter, David Bowes, Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward
 
 2:51- 3:03 (includes Q&A)
 
