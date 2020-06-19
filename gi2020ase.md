@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "GI Tutorial @ ASE 2020"
+description: " "
 perma: /gi2020ase/
 ---
 
