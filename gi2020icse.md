@@ -22,7 +22,7 @@ perma: /gi2020icse/
 ## Video-call and Live-Stream information
 
 - For those who registered the GI@ICSE 2020, we have sent an Zoom invitation link via email.
-- We will also live stream on YouTube: [https://youtu.be/GsNKCifm44A](https://youtu.be/GsNKCifm44A)
+- We will also live stream on YouTube: [https://youtu.be/GsNKCifm44A](https://youtu.be/GsNKCifm44A). Please feel free to join us if you're interested in GI.
 
 
 ## Keynote
@@ -70,32 +70,16 @@ Advent of microservices has increased the popularity of the API-first design pri
 
 We outline a combination of Grammar Guided Genetic Programming with Tree Genetic Programming. Instead of utilizing a grammar directly, an operator graph based on that grammar is created, that is responsible for producing abstract syntax trees. Each operator contains knowledge about the grammar symbol it represents and returns only trees valid according to user-defined restrictions such as depth, complexity and approximated run-time performance. Initial Results show that the approach reduces invalid individuals in an evolutionary run, while supporting the extension towards further non-functional features.
 
-## Schedule
-
-Keynote: 1pm-2:15pm UTC (includes Q&A)
-
-2:15-2:27 (includes Q&A)
-
-Checkers: Multi-modal Darwinian API Optimisation by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan
-
-2:27-2:39 (includes Q&A)
-
-Stack-Based Genetic Improvement by Aymeric Blot, Justyna Petke
-
-2:39-2:51 (includes Q&A)
-
-Human Factors in the Study of Automatic Software Repair by Emily Winter, David Bowes, Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward
-
-2:51- 3:03 (includes Q&A)
-
-Towards Knowledge Guided Genetic Improvement by Oliver Krauss
-
-3:03-3:15 (includes Q&A)
-
-Synthetic Benchmarks for Genetic Improvement by Aymeric Blot, Justyna Petke
-
-3:15-3:30
-Discussion Session
+## Schedule 
+| Time                 | Content (includes Q&A)               |
+|----------------------|:-------------------------------------|
+|13:00-14:15 UTC       | **Keynote Speech** by Mark Harman
+|14:15-14:27 UTC       | **Checkers: Multi-modal Darwinian API Optimisation** by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan
+|14:27-14:39 UTC       | **Stack-Based Genetic Improvement** by Aymeric Blot, Justyna Petke
+|14:39-14:51 UTC       | **Human Factors in the Study of Automatic Software Repair** by Emily Winter, David Bowes, Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward
+|14:51-15:03 UTC       | **Towards Knowledge Guided Genetic Improvement** by Oliver Krauss
+|15:03-15:15 UTC       | **Synthetic Benchmarks for Genetic Improvement** by Aymeric Blot, Justyna Petke
+|15:15-15:30 UTC       | **Discussion Session**
 
 ## <a name="CFP"></a> Call For Submissions [[pdf](https://github.com/geneticimprovementofsoftware/geneticimprovementofsoftware.github.io/raw/master/cfp.pdf)]
 
