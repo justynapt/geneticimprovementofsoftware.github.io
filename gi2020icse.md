@@ -72,19 +72,19 @@ We outline a combination of Grammar Guided Genetic Programming with Tree Genetic
 
 ## Schedule 
 
-- 13:00-14:15 UTC
-    - **Keynote Speech** by Mark Harman
-- 14:15-14:27 UTC
-    - **Checkers: Multi-modal Darwinian API Optimisation** by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan
-- 14:27-14:39 UTC
-    - **Stack-Based Genetic Improvement** by Aymeric Blot, Justyna Petke
-- 14:39-14:51 UTC
-    - **Human Factors in the Study of Automatic Software Repair** by Emily Winter, David Bowes, Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward
-- 14:51-15:03 UTC
-    - **Towards Knowledge Guided Genetic Improvement** by Oliver Krauss
-- 15:03-15:15 UTC
-    - **Synthetic Benchmarks for Genetic Improvement** by Aymeric Blot, Justyna Petke
-- 15:15-15:30 UTC
+- 13:00-14:15 UTC (75 mins)
+    - **Keynote Speech** by Mark Harman (includes Q&A)
+- 14:15-14:27 UTC (12 mins)
+    - **Checkers: Multi-modal Darwinian API Optimisation** by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan (includes Q&A)
+- 14:27-14:39 UTC (12 mins)
+    - **Stack-Based Genetic Improvement** by Aymeric Blot, Justyna Petke (includes Q&A)
+- 14:39-14:51 UTC (12 mins)
+    - **Human Factors in the Study of Automatic Software Repair** by Emily Winter, David Bowes, Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward (includes Q&A)
+- 14:51-15:03 UTC (12 mins)
+    - **Towards Knowledge Guided Genetic Improvement** by Oliver Krauss (includes Q&A)
+- 15:03-15:15 UTC (12 mins)
+    - **Synthetic Benchmarks for Genetic Improvement** by Aymeric Blot, Justyna Petke (includes Q&A)
+- 15:15-15:30 UTC (15 mins)
     - **Discussion Session**
 
 ## <a name="CFP"></a> Call For Submissions [[pdf](https://github.com/geneticimprovementofsoftware/geneticimprovementofsoftware.github.io/raw/master/cfp.pdf)]
