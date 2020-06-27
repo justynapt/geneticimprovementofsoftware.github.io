@@ -21,7 +21,7 @@ perma: /gi2020icse/
 
 ## Video-call and Live-Stream information
 
-- For those who registered the GI@ICSE 2020, we have sent an Zoom invitation link via email.
+- For those who registered the GI@ICSE 2020, we have sent a Zoom invitation link via email.
 - We will also live stream on YouTube: [https://youtu.be/GsNKCifm44A](https://youtu.be/GsNKCifm44A). Please feel free to join us if you're interested in GI.
 
 
