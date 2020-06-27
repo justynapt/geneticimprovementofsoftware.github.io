@@ -71,15 +71,21 @@ Advent of microservices has increased the popularity of the API-first design pri
 We outline a combination of Grammar Guided Genetic Programming with Tree Genetic Programming. Instead of utilizing a grammar directly, an operator graph based on that grammar is created, that is responsible for producing abstract syntax trees. Each operator contains knowledge about the grammar symbol it represents and returns only trees valid according to user-defined restrictions such as depth, complexity and approximated run-time performance. Initial Results show that the approach reduces invalid individuals in an evolutionary run, while supporting the extension towards further non-functional features.
 
 ## Schedule 
-| Time                 | Content (includes Q&A)               |
-|----------------------|:-------------------------------------|
-|13:00-14:15 UTC       | **Keynote Speech** by Mark Harman
-|14:15-14:27 UTC       | **Checkers: Multi-modal Darwinian API Optimisation** by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan
-|14:27-14:39 UTC       | **Stack-Based Genetic Improvement** by Aymeric Blot, Justyna Petke
-|14:39-14:51 UTC       | **Human Factors in the Study of Automatic Software Repair** by Emily Winter, David Bowes, Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward
-|14:51-15:03 UTC       | **Towards Knowledge Guided Genetic Improvement** by Oliver Krauss
-|15:03-15:15 UTC       | **Synthetic Benchmarks for Genetic Improvement** by Aymeric Blot, Justyna Petke
-|15:15-15:30 UTC       | **Discussion Session**
+
+- 13:00-14:15 UTC
+    - **Keynote Speech** by Mark Harman
+- 14:15-14:27 UTC
+    - **Checkers: Multi-modal Darwinian API Optimisation** by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan
+- 14:27-14:39 UTC
+    - **Stack-Based Genetic Improvement** by Aymeric Blot, Justyna Petke
+- 14:39-14:51 UTC
+    - **Human Factors in the Study of Automatic Software Repair** by Emily Winter, David Bowes, Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward
+- 14:51-15:03 UTC
+    - **Towards Knowledge Guided Genetic Improvement** by Oliver Krauss
+- 15:03-15:15 UTC
+    - **Synthetic Benchmarks for Genetic Improvement** by Aymeric Blot, Justyna Petke
+- 15:15-15:30 UTC
+    - **Discussion Session**
 
 ## <a name="CFP"></a> Call For Submissions [[pdf](https://github.com/geneticimprovementofsoftware/geneticimprovementofsoftware.github.io/raw/master/cfp.pdf)]
 
