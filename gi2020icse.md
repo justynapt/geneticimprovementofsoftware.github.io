@@ -42,6 +42,8 @@ Automatic software repair represents a significant development in software engin
 of automatic software repair tools; longitudinal studies; and the use of a wide range of appropriate social research methods, not just surveys. All three of these position industry-based software engineers not just as providers of feedback on automatic software repair tools but as valuable participants in the shaping of these technologies, allowing for the development of tools that meet 
 developer and industry needs, as well as allaying any concerns.
 
+[Presentation Slides](/slides/gi2020icse/human_factors_slides.pdf)
+
 <hr>
 
 [Synthetic Benchmarks for Genetic Improvement](/paper_pdfs/gi2020icse/synthetic_benchmarks_for_genetic_improvement.pdf) by Aymeric Blot, Justyna Petke
@@ -49,6 +51,8 @@ developer and industry needs, as well as allaying any concerns.
 Genetic improvement (GI) uses automated search to find improved versions of existing software.
 If over the years the potential of many GI approaches have been demonstrated, the intrinsic cost of evaluating real-world software makes comparing these approaches in large-scale meta-analyses very  expensive.
 We propose and describe a method to construct synthetic GI benchmarks, to circumvent this bottleneck and enable much faster quality assessment of GI approaches.
+
+[Presentation Slides](/slides/gi2020icse/synthetic_benchmarks_slides.pdf)
 
 <hr>
 
@@ -58,6 +62,8 @@ Genetic improvement (GI) uses automated search to find improved versions of exis
 If originally GI directly evolved populations of software, most GI work nowadays use a solution representation based on a list of mutations.
 This representation however has some limitations, notably in how genetic material can be recombined.
 We introduce a novel stack-based representation and discuss its possible benefits.
+
+[Presentation Slides](/slides/gi2020icse/stack_based_slides.pdf)
 
 <hr>
 
@@ -70,6 +76,8 @@ Advent of microservices has increased the popularity of the API-first design pri
 [Towards Knowledge Guided Genetic Improvement](/paper_pdfs/gi2020icse/towards_knowledge_guided_genetic_improvement.pdf) by Oliver Krauss, Hanspeter &ouml;ssenb&ouml;ck, and Michael Affenzeller
 
 We outline a combination of Grammar Guided Genetic Programming with Tree Genetic Programming. Instead of utilizing a grammar directly, an operator graph based on that grammar is created, that is responsible for producing abstract syntax trees. Each operator contains knowledge about the grammar symbol it represents and returns only trees valid according to user-defined restrictions such as depth, complexity and approximated run-time performance. Initial Results show that the approach reduces invalid individuals in an evolutionary run, while supporting the extension towards further non-functional features.
+
+[Presentation Slides](/slides/gi2020icse/towards_knowledge_guided_slides.pdf)
 
 ## Schedule 
 
