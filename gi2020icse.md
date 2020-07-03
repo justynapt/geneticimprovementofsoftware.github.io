@@ -35,7 +35,7 @@ Mark Harman is an engineering manager at Facebook London, and also a part time p
 
 ## Papers
 
-**Human Factors in the Study of Automatic Software Repair** by Emily Winter, David Bowes Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward
+[Human Factors in the Study of Automatic Software Repair](/paper_pdfs/gi2020icse/human_factors_in_the_study_of_automatic_software_repair.pdf) by Emily Winter, David Bowes Steve Counsell, Tracy Hall, Saemundur Haraldsson, Vesna Nowack, John Woodward
 
 Automatic software repair represents a significant development in software engineering, promising considerable potential change to the working procedures and practices of software engineers, developers, and testers. Technical advances within this domain have been the focus of many recent publications. However, despite the simultaneous rising prominence of studies that consider the role of ‘human factors’ within software engineering, there has not been an equivalent growth of studies of human factors within the domain of automatic software repair. This short position paper presents the case for increased research in this area and suggests three key focuses and approaches for a future research agenda. These are: considerations that go beyond the current focus on the usability
 of automatic software repair tools; longitudinal studies; and the use of a wide range of appropriate social research methods, not just surveys. All three of these position industry-based software engineers not just as providers of feedback on automatic software repair tools but as valuable participants in the shaping of these technologies, allowing for the development of tools that meet 
@@ -43,7 +43,7 @@ developer and industry needs, as well as allaying any concerns.
 
 <hr>
 
-**Synthetic Benchmarks for Genetic Improvement** by Aymeric Blot, Justyna Petke
+[Synthetic Benchmarks for Genetic Improvement](/paper_pdfs/gi2020icse/synthetic_benchmarks_for_genetic_improvement.pdf) by Aymeric Blot, Justyna Petke
 
 Genetic improvement (GI) uses automated search to find improved versions of existing software.
 If over the years the potential of many GI approaches have been demonstrated, the intrinsic cost of evaluating real-world software makes comparing these approaches in large-scale meta-analyses very  expensive.
@@ -51,7 +51,7 @@ We propose and describe a method to construct synthetic GI benchmarks, to circum
 
 <hr>
 
-**Stack-Based Genetic Improvement** by Aymeric Blot, Justyna Petke
+[Stack-Based Genetic Improvement](/paper_pdfs/gi2020icse/stack_based_genetic_improvement.pdf) by Aymeric Blot, Justyna Petke
 
 Genetic improvement (GI) uses automated search to find improved versions of existing software.
 If originally GI directly evolved populations of software, most GI work nowadays use a solution representation based on a list of mutations.
@@ -60,13 +60,13 @@ We introduce a novel stack-based representation and discuss its possible benefit
 
 <hr>
 
-**Checkers: Multi-modal Darwinian API Optimisation** by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan
+[Checkers: Multi-modal Darwinian API Optimisation](/paper_pdfs/gi2020icse/checkers.pdf) by Santanu Kumar Dash, Fan Wu, Michail Basios, Lingbo Li, Leslie Kanthan
 
 Advent of microservices has increased the popularity of the API-first design principles. Developers have been focusing on concretising the API to a system before building the system. An API-first approach assumes that the API will be correctly used. Inevitably, most developers, even experienced ones, end-up writing sub-optimal software because of using APIs incorrectly. In this paper, we discuss an automated approach for exploring API equivalence and a framework to synthesise semantically equivalent programs. Unlike existing approaches to API transplantation, we propose an amorphous or formless approach to software translation in which a single API could potentially be replaced by a synthesised sequence of APIs which ensures type progress. Our search is guided by the non-functional goals for the software, a type-theoretic notion of progress and an automatic multi-modal embedding of the API from its documentation and code analysis.
 
 <hr>
 
-**Towards Knowledge Guided Genetic Improvement** by Oliver Krauss
+[Towards Knowledge Guided Genetic Improvement](/paper_pdfs/gi2020icse/towards_knowledge_guided_genetic_improvement.pdf) by Oliver Krauss
 
 We outline a combination of Grammar Guided Genetic Programming with Tree Genetic Programming. Instead of utilizing a grammar directly, an operator graph based on that grammar is created, that is responsible for producing abstract syntax trees. Each operator contains knowledge about the grammar symbol it represents and returns only trees valid according to user-defined restrictions such as depth, complexity and approximated run-time performance. Initial Results show that the approach reduces invalid individuals in an evolutionary run, while supporting the extension towards further non-functional features.
 
