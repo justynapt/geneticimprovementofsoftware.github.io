@@ -99,7 +99,7 @@ We outline a combination of Grammar Guided Genetic Programming with Tree Genetic
 - 15:15-15:30 UTC (15 mins)
     - **Discussion Session**
 
-## <a name="CFP"></a> Call For Submissions [[pdf](https://github.com/geneticimprovementofsoftware/geneticimprovementofsoftware.github.io/raw/master/cfp.pdf)]
+## <a name="CFP"></a> Call For Submissions [[pdf](/paper_pdfs/gi2020icse/call_for_papers.pdf)]
 
 We invite submissions that discuss recent developments in all areas of research on, and applications of, Genetic Improvement. 
 GI is the premier workshop in the field and provides an opportunity for researchers interested in automated program repair and software optimisation to disseminate their work, exchange ideas and discover new research directions.
