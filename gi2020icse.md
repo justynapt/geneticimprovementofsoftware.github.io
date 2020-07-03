@@ -25,6 +25,7 @@ perma: /gi2020icse/
 - We will also live stream on YouTube: [https://youtu.be/GsNKCifm44A](https://youtu.be/GsNKCifm44A). Please feel free to join us if you're interested in GI.
 - Twitter hashtag [#gi_icse_2020](https://twitter.com/hashtag/gi_icse_2020?src=hashtag_click)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GsNKCifm44A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Keynote
 
