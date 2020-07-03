@@ -123,7 +123,7 @@ Topics of interest include both the theory and practice of Genetic Improvement. 
 
 ## Group Photos
 
-![](/workshop_photos/gi2020icse/group_photos_1.png) ![](/workshop_photos/gi2020icse/group_photos_1.png)
+![](/workshop_photos/gi2020icse/group_photo_1.png) ![](/workshop_photos/gi2020icse/group_photo_1.png)
 
 ## Research & Position Papers
 We invite submissions of two paper types:
