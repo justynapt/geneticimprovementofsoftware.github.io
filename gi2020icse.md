@@ -71,6 +71,8 @@ We introduce a novel stack-based representation and discuss its possible benefit
 
 Advent of microservices has increased the popularity of the API-first design principles. Developers have been focusing on concretising the API to a system before building the system. An API-first approach assumes that the API will be correctly used. Inevitably, most developers, even experienced ones, end-up writing sub-optimal software because of using APIs incorrectly. In this paper, we discuss an automated approach for exploring API equivalence and a framework to synthesise semantically equivalent programs. Unlike existing approaches to API transplantation, we propose an amorphous or formless approach to software translation in which a single API could potentially be replaced by a synthesised sequence of APIs which ensures type progress. Our search is guided by the non-functional goals for the software, a type-theoretic notion of progress and an automatic multi-modal embedding of the API from its documentation and code analysis.
 
+[Presentation Slides](/slides/gi2020icse/checkers_slides.pdf)
+
 <hr>
 
 [Towards Knowledge Guided Genetic Improvement](/paper_pdfs/gi2020icse/towards_knowledge_guided_genetic_improvement.pdf) by Oliver Krauss, Hanspeter &ouml;ssenb&ouml;ck, and Michael Affenzeller
