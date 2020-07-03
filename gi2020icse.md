@@ -4,7 +4,7 @@ title: "GI @ ICSE 2020"
 perma: /gi2020icse/
 ---
 
-[Keynote](#keynote) [Papers](#papers) [Schedule](#schedule) [CFP](#CFP) [Organisers](#organisers) [PC](#pc) [Sponsors](#sponsors) 
+[Video](#video) [Keynote](#keynote) [Papers](#papers) [Schedule](#schedule) [CFP](#CFP) [Organisers](#organisers) [PC](#pc) [Sponsors](#sponsors) 
 
 ## **The 8th International Workshop on Genetic Improvement @[ICSE 2020](https://conf.researchr.org/home/icse-2020)**
 
@@ -19,10 +19,11 @@ perma: /gi2020icse/
 - **Registration deadline**: 24 June 2020 (Wed)
 - **Workshop**: 3 July 2020 (Fri), 13:00-15:30 UTC ([time zone converter]( https://www.timeanddate.com/worldclock/converter.html?iso=20200707T000000&p1=1440))
 
-## Video-call and Live-Stream information
+## <a name="Video"></a> Video-call and Live-Stream information
 
 - For those who registered the GI@ICSE 2020, we have sent a Zoom invitation link via email.
 - We will also live stream on YouTube: [https://youtu.be/GsNKCifm44A](https://youtu.be/GsNKCifm44A). Please feel free to join us if you're interested in GI.
+- Twitter hashtag [#gi_icse_2020](https://twitter.com/hashtag/gi_icse_2020?src=hashtag_click)
 
 
 ## Keynote
