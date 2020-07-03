@@ -67,7 +67,7 @@ Advent of microservices has increased the popularity of the API-first design pri
 
 <hr>
 
-[Towards Knowledge Guided Genetic Improvement](/paper_pdfs/gi2020icse/towards_knowledge_guided_genetic_improvement.pdf) by Oliver Krauss
+[Towards Knowledge Guided Genetic Improvement](/paper_pdfs/gi2020icse/towards_knowledge_guided_genetic_improvement.pdf) by Oliver Krauss, Hanspeter &ouml;ssenb&ouml;ck, and Michael Affenzeller
 
 We outline a combination of Grammar Guided Genetic Programming with Tree Genetic Programming. Instead of utilizing a grammar directly, an operator graph based on that grammar is created, that is responsible for producing abstract syntax trees. Each operator contains knowledge about the grammar symbol it represents and returns only trees valid according to user-defined restrictions such as depth, complexity and approximated run-time performance. Initial Results show that the approach reduces invalid individuals in an evolutionary run, while supporting the extension towards further non-functional features.
 
