@@ -4,7 +4,7 @@ title: "GI @ ICSE 2020"
 perma: /gi2020icse/
 ---
 
-[Video](#video) [Keynote](#keynote) [Papers](#papers) [Schedule](#schedule) [CFP](#CFP) [Organisers](#organisers) [PC](#pc) [Sponsors](#sponsors) 
+[Video](#video) | [Keynote](#keynote) | [Papers](#papers) | [Schedule](#schedule) | [CFP](#CFP) [Organisers](#organisers) | [PC](#pc) | [Sponsors](#sponsors) 
 
 ## **The 8th International Workshop on Genetic Improvement @[ICSE 2020](https://conf.researchr.org/home/icse-2020)**
 
@@ -161,8 +161,6 @@ Special thanks to [Bill Langdon](http://www0.cs.ucl.ac.uk/staff/W.Langdon/) for 
 <img width="120px" src="./profile_images/marija.jpg"><br> [Marija Selakovic](http://marija.skyresource.com) | <img width="120px" src="./profile_images/bach.jpeg"><br> [Bach Le](https://cis.unimelb.edu.au/people/bach-le) | [Aymeric Blot](http://www0.cs.ucl.ac.uk/staff/a.blot/)
 
 ## Sponsors
-
-**Please get in touch with one of the organisers if you'd like to sponsor our workshop.**
 
 We are grateful to our sponsors for their support of the 8th International Workshop (GI@ICSE 2020).
 
