@@ -30,6 +30,7 @@ perma: /gi2020icse/
   - 1:46:37 Human Factors in the Study of Automatic Software Repair (Emily Winter)
   - 2:00:46 Towards Knowledge Guided Genetic Improvement (Oliver Krauss)
   - 2:12:20 Synthetic Benchmarks for Genetic Improvement (Aymeric Blot)
+  - 2:28:27 Discussion Session
 - This livestream recording is available on YouTube: [https://youtu.be/GsNKCifm44A](https://youtu.be/GsNKCifm44A)
 
 - Twitter hashtag [#gi_icse_2020](https://twitter.com/hashtag/gi_icse_2020?src=hashtag_click)
