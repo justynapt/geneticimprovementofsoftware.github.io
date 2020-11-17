@@ -5,7 +5,7 @@ perma: /gi2021icse/
 ---
 
 
-## --The 8th International Workshop on Genetic Improvement @[ICSE 2021](https://conf.researchr.org/home/icse-2021)--
+## The 10th International Workshop on Genetic Improvement @[ICSE 2021](https://conf.researchr.org/home/icse-2021)
 
 
 ## Call for Papers
@@ -58,9 +58,9 @@ The keynote will be given by Prof. Stephanie Forrest, head of Arizona State Univ
 
 ## Organisers
 
-Justyna Petke
-Bobby R. Bruce
-Yu Huang
-Aymeric Blot
-Wesley Weimer
+- Justyna Petke
+- Bobby R. Bruce
+- Yu Huang
+- Aymeric Blot
+- Westley Weimer
 
